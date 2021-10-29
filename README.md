@@ -7,3 +7,11 @@
 ```python
 pip install bs4
 ```
+
+<h2>To install Requests</h2>
+
+
+```python
+pip install requests
+```
+
