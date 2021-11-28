@@ -30,7 +30,7 @@ class main:
                 salary = item.find('div', class_='salary-snippet').text.strip()
             except:
                 salary = ''
-            link1 = item.find('h2').get('href')
+            
             print(title)
 
         return
