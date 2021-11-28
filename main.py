@@ -6,23 +6,34 @@ from bs4 import BeautifulSoup
 
 class main:
 
-    def getURL(position, location):
-        # The curly braces indicate the job search and location
-        template = 'https://ca.indeed.com/jobs?q={}&l={}'
-        url = template.format(position, location)
-        return url
+    def extract(page):
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'}
+        # grabs the url and page number. Note: page 2 = start=10. Page 1 = start = 0
+        url = f'https://ca.indeed.com/jobs?q=software%20developer%2C%20programmer&l=Canada&start={page}'
+        r = requests.get(url, headers)
 
-    url = getURL('software developer', 'Canada')
+        soup = BeautifulSoup(r.content, 'html.parser')
+        return soup
 
-    response = requests.get(url)
+    def transform(soup):
+        divs = soup.find_all('div', class_='job_seen_beacon')
+        for item in divs:
+            # Finds all the titles of the job descriptions
+            title = item.find('h2').text.strip()
+            # Remove the "new" word
+            title = title.replace("new", "")
+            # Finds company names
+            company = item.find('span', class_='companyName').text.strip()
+            # Finds salary
+            try:
+                salary = item.find('div', class_='salary-snippet').text.strip()
+            except:
+                salary = ''
+            link1 = item.find('h2').get('href')
+            print(title)
 
-    soup = BeautifulSoup(response.text, 'html.parser')
+        return
 
-    # Get job titles
-    cards = soup.find_all(
-        'h2', class_='jobTitle jobTitle-color-purple jobTitle-newJob')
-
-    # Prototype the model with a single record:
-    card = cards[0].div
-
-    print(card['span'])
+    c = extract(0)
+    transform(c)
