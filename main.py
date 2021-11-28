@@ -37,3 +37,16 @@ class main:
 
     c = extract(0)
     transform(c)
+    
+    # Begin looping through all detailed job descriptions on a page
+    
+    for link in soup.findAll('a', {'target' : '_blank'}):
+        if 'js=3' in link.get('href'):
+            allLinks.append(link.get('href'))
+            
+    # Create 2nd soup object for every job page to use for parsing
+    for link in allLinks:
+        jobURL = 'https://ca.indeed.com' + link
+        jobResponse = requests.get(jobURL)
+        jobData = response.text
+        jobSoup = BeautifulSoup(jobData, 'html.parser')
