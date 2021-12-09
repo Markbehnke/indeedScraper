@@ -55,7 +55,8 @@ class main:
     jobs = json.loads(jsonJobs)
     page = 0
     # Currently 5 pages of jobs.
-    while(page < 50):
+    while(page < 1000):
+        print("Currently on page", page / 10)
         time.sleep(10)
         c = extract(page)
         transform(c, jobs)
@@ -78,10 +79,12 @@ class main:
         for link in allLinks:
             jobURL = 'https://ca.indeed.com' + link
             jobResponse = requests.get(jobURL)
+            print("Scraping", jobURL)
+            time.sleep(10)
             jobData = jobResponse.content
             jobSoup = BeautifulSoup(jobData, 'html.parser')
             transformJob(jobSoup, jobs)
         # page number. Note: page 0 = first page, page 10 = second page, page 20 = third page etc.
         page += 10
-    with open('data.txt', 'w') as outfile:
+    with open('softwaredeveloper-programmer', 'w') as outfile:
         json.dump(jobs, outfile)
