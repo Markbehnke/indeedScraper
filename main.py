@@ -3,6 +3,7 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 import json
+import time
 
 
 class main:
@@ -55,6 +56,7 @@ class main:
     page = 0
     # Currently 5 pages of jobs.
     while(page < 50):
+        time.sleep(10)
         c = extract(page)
         transform(c, jobs)
 
@@ -81,4 +83,5 @@ class main:
             transformJob(jobSoup, jobs)
         # page number. Note: page 0 = first page, page 10 = second page, page 20 = third page etc.
         page += 10
-    print(jobs["title"])
+    with open('data.txt', 'w') as outfile:
+        json.dump(jobs, outfile)
