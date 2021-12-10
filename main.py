@@ -41,25 +41,30 @@ class main:
         return
 
 # jobsearch-jobDescriptionText
-    def transformJob(soup, jobs):
-        divs = soup.find(
-            'div', attrs={"class": 'jobsearch-jobDescriptionText'}).findAll('li')
-        for item in divs:
-            try:
-                desc = item.text.strip()
-                jobs["description"].append(desc)
-            except:
-                continue
+    def transformJob(soup, jobs, jobNum):
+        desc = ""
+        try:
+            divs = soup.find(
+                'div', attrs={"class": 'jobsearch-jobDescriptionText'}).findAll('li')
+            for item in divs:
+                desc += f"{item.text.strip()} "
+        except ValueError:
+            pass
+        with open('programmer.txt', 'a') as outfile:
+            outfile.write(f'ScrapedJobID{jobNum}:\n{desc}\n')
+
+    jobNum = 1
     # JSON object
+    open("programmer.txt", 'w').close()
     jsonJobs = '{"company":[],"title": [],"description": [],"salary": []}'
     jobs = json.loads(jsonJobs)
     page = 0
     # Change this variable for which job you are searching by
     jobTitle = "programmer"
-    # Currently 5 pages of jobs.
-    while(page < 1000):
+    # Currently 100 pages of jobs.
+    while(page < 10):
         print("Currently on page", page / 10)
-        time.sleep(10)
+        time.sleep(2)
         c = extract(page, jobTitle)
         transform(c, jobs)
 
@@ -79,9 +84,8 @@ class main:
             time.sleep(10)
             jobData = jobResponse.content
             jobSoup = BeautifulSoup(jobData, 'html.parser')
-            transformJob(jobSoup, jobs)
+            transformJob(jobSoup, jobs, jobNum)
+            jobNum += 1
         # page number. Note: page 0 = first page, page 10 = second page, page 20 = third page etc.
         page += 10
     # Make your file then change this to the output
-    with open('programmer.txt', 'w') as outfile:
-        json.dump(jobs, outfile)
