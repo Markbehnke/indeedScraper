@@ -18,29 +18,10 @@ class main:
         soup = BeautifulSoup(r.content, 'html.parser')
         return soup
 
-    def transform(soup, jobs):
-        divs = soup.find_all('div', class_='job_seen_beacon')
-        for item in divs:
-            # Finds all the titles of the job descriptions
-            title = item.find('h2').text.strip()
-
-            # Remove the "new" word
-            title = title.replace("new", "")
-            jobs["title"].append(title)
-            # Finds company names
-            company = item.find('span', class_='companyName').text.strip()
-            jobs["company"].append(company)
-            # Finds salary
-            try:
-                salary = item.find('div', class_='salary-snippet').text.strip()
-                jobs["salary"].append(salary)
-            except:
-                salary = ''
-                jobs["salary"].append(salary)
-
-        return
 
 # jobsearch-jobDescriptionText
+
+
     def transformJob(soup, jobs, jobNum):
         desc = ""
         try:
@@ -48,25 +29,20 @@ class main:
                 'div', attrs={"class": 'jobsearch-jobDescriptionText'}).findAll('li')
             for item in divs:
                 desc += f"{item.text.strip()} "
-        except ValueError:
+        except:
             pass
-        with open('programmer.txt', 'a') as outfile:
+        with open('programmer.txt', 'a', encoding="utf-8") as outfile:
             outfile.write(f'ScrapedJobID{jobNum}:\n{desc}\n')
 
     jobNum = 1
-    # JSON object
-    open("programmer.txt", 'w').close()
-    jsonJobs = '{"company":[],"title": [],"description": [],"salary": []}'
-    jobs = json.loads(jsonJobs)
     page = 0
     # Change this variable for which job you are searching by
     jobTitle = "programmer"
     # Currently 100 pages of jobs.
-    while(page < 10):
+    while(page <= 1000):
         print("Currently on page", page / 10)
         time.sleep(2)
         c = extract(page, jobTitle)
-        transform(c, jobs)
 
         # Begin looping through all detailed job descriptions on a page
         soup = extract(page, jobTitle)
