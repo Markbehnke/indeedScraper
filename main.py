@@ -8,11 +8,11 @@ import time
 
 class main:
 
-    def extract(page):
+    def extract(page, jobTitle):
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'}
         # grabs the url and page number. Note: page 2 = start=10. Page 1 = start = 0
-        url = f'https://ca.indeed.com/jobs?q=software%20developer%2C%20programmer&l=Canada&start={page}'
+        url = f'https://ca.indeed.com/jobs?q={jobTitle}&l=Canada&start={page}'
         r = requests.get(url, headers)
 
         soup = BeautifulSoup(r.content, 'html.parser')
@@ -54,21 +54,17 @@ class main:
     jsonJobs = '{"company":[],"title": [],"description": [],"salary": []}'
     jobs = json.loads(jsonJobs)
     page = 0
+    # Change this variable for which job you are searching by
+    jobTitle = "programmer"
     # Currently 5 pages of jobs.
     while(page < 1000):
         print("Currently on page", page / 10)
         time.sleep(10)
-        c = extract(page)
+        c = extract(page, jobTitle)
         transform(c, jobs)
 
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'}
-        # grabs the url and page number. Note: page 2 = start=10. Page 1 = start = 0
-        url = f'https://ca.indeed.com/jobs?q=software%20developer%2C%20programmer&l=Canada&start=10'
-        r = requests.get(url, headers)
-
         # Begin looping through all detailed job descriptions on a page
-        soup = BeautifulSoup(r.content, 'html.parser')
+        soup = extract(page, jobTitle)
         allLinks = []
 
         for link in soup.findAll('a', {'target': '_blank'}):
@@ -86,5 +82,6 @@ class main:
             transformJob(jobSoup, jobs)
         # page number. Note: page 0 = first page, page 10 = second page, page 20 = third page etc.
         page += 10
-    with open('softwaredeveloper-programmer', 'w') as outfile:
+    # Make your file then change this to the output
+    with open('programmer.txt', 'w') as outfile:
         json.dump(jobs, outfile)
