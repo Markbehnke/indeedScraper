@@ -31,13 +31,13 @@ class main:
                 desc += f"{item.text.strip()} "
         except:
             pass
-        with open('programmer.txt', 'a', encoding="utf-8") as outfile:
+        with open('backend.txt', 'a', encoding="utf-8") as outfile:
             outfile.write(f'ScrapedJobID{jobNum}:\n{desc}\n')
 
     jobNum = 1
     page = 0
     # Change this variable for which job you are searching by
-    jobTitle = "programmer"
+    jobTitle = "backend"
     # Currently 100 pages of jobs.
     while(page <= 1000):
         print("Currently on page", page / 10)
