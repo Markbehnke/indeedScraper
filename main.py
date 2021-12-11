@@ -22,7 +22,7 @@ class main:
 # jobsearch-jobDescriptionText
 
 
-    def transformJob(soup, jobs, jobNum):
+    def transformJob(soup, jobNum):
         desc = ""
         try:
             divs = soup.find(
@@ -41,7 +41,7 @@ class main:
     # Currently 100 pages of jobs.
     while(page <= 1000):
         print("Currently on page", page / 10)
-        time.sleep(2)
+        time.sleep(11)
         c = extract(page, jobTitle)
 
         # Begin looping through all detailed job descriptions on a page
@@ -54,13 +54,13 @@ class main:
 
         # Create 2nd soup object for every job page to use for parsing
         for link in allLinks:
+            time.sleep(11)
             jobURL = 'https://ca.indeed.com' + link
             jobResponse = requests.get(jobURL)
             print("Scraping", jobURL)
-            time.sleep(10)
             jobData = jobResponse.content
             jobSoup = BeautifulSoup(jobData, 'html.parser')
-            transformJob(jobSoup, jobs, jobNum)
+            transformJob(jobSoup, jobNum)
             jobNum += 1
         # page number. Note: page 0 = first page, page 10 = second page, page 20 = third page etc.
         page += 10
