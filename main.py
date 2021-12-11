@@ -22,7 +22,7 @@ class main:
 # jobsearch-jobDescriptionText
 
 
-    def transformJob(soup, jobs, jobNum):
+    def transformJob(soup, jobNum):
         desc = ""
         try:
             divs = soup.find(
@@ -31,13 +31,13 @@ class main:
                 desc += f"{item.text.strip()} "
         except:
             pass
-        with open('programmer.txt', 'a', encoding="utf-8") as outfile:
+        with open('backend.txt', 'a', encoding="utf-8") as outfile:
             outfile.write(f'ScrapedJobID{jobNum}:\n{desc}\n')
 
     jobNum = 1
     page = 0
     # Change this variable for which job you are searching by
-    jobTitle = "programmer"
+    jobTitle = "backend"
     # Currently 100 pages of jobs.
     while(page <= 1000):
         print("Currently on page", page / 10)
@@ -60,7 +60,7 @@ class main:
             time.sleep(10)
             jobData = jobResponse.content
             jobSoup = BeautifulSoup(jobData, 'html.parser')
-            transformJob(jobSoup, jobs, jobNum)
+            transformJob(jobSoup, jobNum)
             jobNum += 1
         # page number. Note: page 0 = first page, page 10 = second page, page 20 = third page etc.
         page += 10
