@@ -37,7 +37,7 @@ for individualFiles in allFiles:
 
         # Split the data into each individual job posting
         for entry in data.split('scrapedjobid'):
-            stemming(entry, individualFiles) 
+            #stemming(entry, individualFiles) 
             # If entry is empty then decerement the total count by 1
             if len(entry) < 8:
                 entryCount -= 1
@@ -48,11 +48,11 @@ for individualFiles in allFiles:
                         wordCounts[word] += 1
                     else:
                         wordCounts[word] = 1
-                if re.search(r'\br\b', entry):
-                    wordCounts["R"]+=1
+            if re.search(r'\br\b', entry):
+                wordCounts["R"]+=1
 
-    with open(f"./processedLogs/{individualFiles}", 'a', encoding="utf-8") as file:
-        file.write(str(entryCount))
+    #with open(f"./processedLogs/{individualFiles}", 'a', encoding="utf-8") as file:
+        #file.write(str(entryCount))
     print("Word counts in " + individualFiles)
     print(wordCounts)
     for word in wordCounts:
