@@ -99,6 +99,7 @@ class main:
             print(" , ", end="")
         print(" : \n")
 
+    labels = allFiles
     Z = linkage(matrix, 'single')
     fig = plt.figure(figsize=(25, 10))
     dn = dendrogram(Z, labels=labels)
