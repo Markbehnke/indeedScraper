@@ -30,7 +30,7 @@ For our purposes, we used VScode to create the scraper. These instructions will 
 </ul>
 
 
-<h2>To Run The Data Collection and Processed text</h2>
+<h2>How To Run The Data Collection and Processed text</h2>
 
 <ul>
   <li>Open languageCounter.py</li>
