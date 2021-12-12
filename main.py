@@ -31,13 +31,13 @@ class main:
                 desc += f"{item.text.strip()} "
         except:
             pass
-        with open('backend.txt', 'a', encoding="utf-8") as outfile:
+        with open('mobile.txt', 'a', encoding="utf-8") as outfile:
             outfile.write(f'ScrapedJobID{jobNum}:\n{desc}\n')
 
     jobNum = 1
     page = 0
     # Change this variable for which job you are searching by
-    jobTitle = "backend"
+    jobTitle = "mobile"
     # Currently 100 pages of jobs.
     while(page <= 1000):
         print("Currently on page", page / 10)
@@ -54,7 +54,7 @@ class main:
 
         # Create 2nd soup object for every job page to use for parsing
         for link in allLinks:
-            time.sleep(11)
+            time.sleep(10)
             jobURL = 'https://ca.indeed.com' + link
             jobResponse = requests.get(jobURL)
             print("Scraping", jobURL)
