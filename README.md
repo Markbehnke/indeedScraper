@@ -40,5 +40,26 @@ For our purposes, we used VScode to create the scraper. These instructions will 
 </ul>
 
   
+<h2>Project Status</h2>
+Jobs scraped: Estimated ~21,202
 
+<h2>Project Steps</h2>
+Week 8 - Setup GitHub repo and read Beautiful Soup documentation
+  -Completed
 
+Week 9 - Begin basic implementation of web scraper
+  -Completed
+
+Week 10 - Continue implementation of the web scraper
+  -Completed
+
+Week 11 - Begin implementation of the data analyzer and stemming algorithm
+  -Completed
+
+Week 12 - Finalize program
+  -Need to scrape more job postings
+
+Week 13 - Submit presentation video
+  -Submitted
+Week 14 - Submit project deliverables.
+  -Submitted
