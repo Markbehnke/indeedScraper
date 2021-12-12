@@ -15,6 +15,17 @@ pip install bs4
 pip install requests
 ```
 
+
+<h2>To install KMedoids</h2>
+
+
+```python
+pip install scikit-learn-extra
+```
+
+
+
+
 <h2>How To Run The Job Scraper</h2>
 
 For our purposes, we used VScode to create the scraper. These instructions will be assuming you use VSCode or an IDE of your choice to run the scraper.
