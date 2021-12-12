@@ -5,7 +5,7 @@ import re
 
 allFiles = os.listdir('./processedLogs')
 gramDict = dict()
-dupeCheck = 0
+gramCounter = 0
 
 for i in range(len(allFiles)):
     with open(f"./processedLogs/{allFiles[i]}", 'r', encoding='utf-8') as file:
@@ -26,7 +26,10 @@ for i in range(len(allFiles)):
             gramDict = sorted(gramDict.items(), key=lambda x: x[1], reverse=True)
             with open(f"./ngram data/{n}gram for {allFiles[i]}", "w", encoding='utf-8') as writeFile:
                 for gram in gramDict:
-                    writeFile.write(str(gram))
-                    writeFile.write('\n')       
+                    if gramCounter < 100:
+                        writeFile.write(str(gram))
+                        writeFile.write('\n')
+                        gramCounter+=1       
 
             gramDict = dict()
+            gramCounter = 0
