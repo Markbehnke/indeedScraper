@@ -48,6 +48,8 @@ for individualFiles in allFiles:
                     else:
                         wordCounts[word] = 1
 
+    with open(f"./processedLogs/{individualFiles}", 'a', encoding="utf-8") as file:
+        file.write(str(entryCount))
     print("Word counts in " + individualFiles)
     print(wordCounts)
     for word in wordCounts:
