@@ -1,50 +1,100 @@
-(('plan', 'design', 'write', 'modify', 'integr', 'test'), 66)
-(('design', 'write', 'modify', 'integr', 'test', 'websit'), 64)
-(('write', 'modify', 'integr', 'test', 'websit', 'code'), 64)
-(('source', 'select', 'organ', 'inclus', 'design', 'appearance'), 61)
-(('select', 'organ', 'inclus', 'design', 'appearance', 'layout'), 61)
-(('organ', 'inclus', 'design', 'appearance', 'layout', 'flow'), 61)
-(('creat', 'optim', 'content', 'websit', 'varieti', 'graphics'), 57)
-(('optim', 'content', 'websit', 'varieti', 'graphics', 'database'), 57)
-(('content', 'websit', 'varieti', 'graphics', 'database', 'anim'), 57)
-(('inclus', 'design', 'appearance', 'layout', 'flow', 'websit'), 56)
-(('websit', 'varieti', 'graphics', 'database', 'anim', 'softwar'), 56)
-(('design', 'appearance', 'layout', 'flow', 'websit', 'creat'), 55)
-(('appearance', 'layout', 'flow', 'websit', 'creat', 'optim'), 55)
-(('layout', 'flow', 'websit', 'creat', 'optim', 'content'), 55)
-(('flow', 'websit', 'creat', 'optim', 'content', 'websit'), 55)
-(('websit', 'creat', 'optim', 'content', 'websit', 'varieti'), 55)
-(('conduct', 'test', 'perform', 'secur', 'qualiti', 'control'), 54)
-(('websit', 'architectur', 'determin', 'hardwar', 'softwar', 'requir'), 53)
-(('requir', 'plan', 'design', 'write', 'modify', 'integr'), 53)
-(('code', 'conduct', 'test', 'perform', 'secur', 'qualiti'), 52)
-(('develop', 'websit', 'architectur', 'determin', 'hardwar', 'softwar'), 52)
-(('architectur', 'determin', 'hardwar', 'softwar', 'requir', 'plan'), 51)
-(('determin', 'hardwar', 'softwar', 'requir', 'plan', 'design'), 51)
-(('hardwar', 'softwar', 'requir', 'plan', 'design', 'write'), 51)
-(('softwar', 'requir', 'plan', 'design', 'write', 'modify'), 51)
-(('varieti', 'graphics', 'database', 'anim', 'softwar', 'develop'), 50)
-(('graphics', 'database', 'anim', 'softwar', 'develop', 'websit'), 50)
-(('database', 'anim', 'softwar', 'develop', 'websit', 'architectur'), 50)
-(('anim', 'softwar', 'develop', 'websit', 'architectur', 'determin'), 50)
-(('softwar', 'develop', 'websit', 'architectur', 'determin', 'hardwar'), 50)
-(('evalu', 'varieti', 'interact', 'media', 'softwar', 'product'), 49)
-(('modify', 'integr', 'test', 'websit', 'code', 'conduct'), 49)
-(('integr', 'test', 'websit', 'code', 'conduct', 'test'), 49)
-(('test', 'websit', 'code', 'conduct', 'test', 'perform'), 49)
-(('websit', 'code', 'conduct', 'test', 'perform', 'secur'), 49)
-(('consult', 'client', 'develop', 'document', 'websit', 'requir'), 47)
-(('write', 'modify', 'integr', 'test', 'softwar', 'code'), 46)
-(('lead', 'coordin', 'multidisciplinari', 'team', 'develop', 'websit'), 42)
-(('coordin', 'multidisciplinari', 'team', 'develop', 'websit', 'graphics'), 42)
-(('multidisciplinari', 'team', 'develop', 'websit', 'graphics', 'content'), 42)
-(('team', 'develop', 'websit', 'graphics', 'content', 'capac'), 42)
-(('develop', 'websit', 'graphics', 'content', 'capac', 'interact'), 41)
-(('websit', 'graphics', 'content', 'capac', 'interact', 'source'), 41)
-(('graphics', 'content', 'capac', 'interact', 'source', 'select'), 41)
-(('content', 'capac', 'interact', 'source', 'select', 'organ'), 41)
-(('capac', 'interact', 'source', 'select', 'organ', 'inclus'), 41)
-(('interact', 'source', 'select', 'organ', 'inclus', 'design'), 41)
-(('client', 'develop', 'document', 'websit', 'requir', 'lead'), 37)
-(('develop', 'document', 'websit', 'requir', 'lead', 'coordin'), 37)
-(('document', 'websit', 'requir', 'lead', 'coordin', 'multidisciplinari'), 37)
+(('plan', 'design', 'write', 'modify', 'integr', 'test'), 66) 5.15%
+(('design', 'write', 'modify', 'integr', 'test', 'websit'), 64) 5.00%
+(('write', 'modify', 'integr', 'test', 'websit', 'code'), 64) 5.00%
+(('source', 'select', 'organ', 'inclus', 'design', 'appearance'), 61) 4.76%
+(('select', 'organ', 'inclus', 'design', 'appearance', 'layout'), 61) 4.76%
+(('organ', 'inclus', 'design', 'appearance', 'layout', 'flow'), 61) 4.76%
+(('creat', 'optim', 'content', 'websit', 'varieti', 'graphics'), 57) 4.45%
+(('optim', 'content', 'websit', 'varieti', 'graphics', 'database'), 57) 4.45%
+(('content', 'websit', 'varieti', 'graphics', 'database', 'anim'), 57) 4.45%
+(('inclus', 'design', 'appearance', 'layout', 'flow', 'websit'), 56) 4.37%
+(('websit', 'varieti', 'graphics', 'database', 'anim', 'softwar'), 56) 4.37%
+(('design', 'appearance', 'layout', 'flow', 'websit', 'creat'), 55) 4.29%
+(('appearance', 'layout', 'flow', 'websit', 'creat', 'optim'), 55) 4.29%
+(('layout', 'flow', 'websit', 'creat', 'optim', 'content'), 55) 4.29%
+(('flow', 'websit', 'creat', 'optim', 'content', 'websit'), 55) 4.29%
+(('websit', 'creat', 'optim', 'content', 'websit', 'varieti'), 55) 4.29%
+(('conduct', 'test', 'perform', 'secur', 'qualiti', 'control'), 54) 4.22%
+(('websit', 'architectur', 'determin', 'hardwar', 'softwar', 'requir'), 53) 4.14%
+(('requir', 'plan', 'design', 'write', 'modify', 'integr'), 53) 4.14%
+(('code', 'conduct', 'test', 'perform', 'secur', 'qualiti'), 52) 4.06%
+(('develop', 'websit', 'architectur', 'determin', 'hardwar', 'softwar'), 52) 4.06%
+(('architectur', 'determin', 'hardwar', 'softwar', 'requir', 'plan'), 51) 3.98%
+(('determin', 'hardwar', 'softwar', 'requir', 'plan', 'design'), 51) 3.98%
+(('hardwar', 'softwar', 'requir', 'plan', 'design', 'write'), 51) 3.98%
+(('softwar', 'requir', 'plan', 'design', 'write', 'modify'), 51) 3.98%
+(('varieti', 'graphics', 'database', 'anim', 'softwar', 'develop'), 50) 3.90%
+(('graphics', 'database', 'anim', 'softwar', 'develop', 'websit'), 50) 3.90%
+(('database', 'anim', 'softwar', 'develop', 'websit', 'architectur'), 50) 3.90%
+(('anim', 'softwar', 'develop', 'websit', 'architectur', 'determin'), 50) 3.90%
+(('softwar', 'develop', 'websit', 'architectur', 'determin', 'hardwar'), 50) 3.90%
+(('evalu', 'varieti', 'interact', 'media', 'softwar', 'product'), 49) 3.83%
+(('modify', 'integr', 'test', 'websit', 'code', 'conduct'), 49) 3.83%
+(('integr', 'test', 'websit', 'code', 'conduct', 'test'), 49) 3.83%
+(('test', 'websit', 'code', 'conduct', 'test', 'perform'), 49) 3.83%
+(('websit', 'code', 'conduct', 'test', 'perform', 'secur'), 49) 3.83%
+(('consult', 'client', 'develop', 'document', 'websit', 'requir'), 47) 3.67%
+(('lead', 'coordin', 'multidisciplinari', 'team', 'develop', 'websit'), 42) 3.28%
+(('coordin', 'multidisciplinari', 'team', 'develop', 'websit', 'graphics'), 42) 3.28%
+(('multidisciplinari', 'team', 'develop', 'websit', 'graphics', 'content'), 42) 3.28%
+(('team', 'develop', 'websit', 'graphics', 'content', 'capac'), 42) 3.28%
+(('develop', 'websit', 'graphics', 'content', 'capac', 'interact'), 41) 3.20%
+(('websit', 'graphics', 'content', 'capac', 'interact', 'source'), 41) 3.20%
+(('graphics', 'content', 'capac', 'interact', 'source', 'select'), 41) 3.20%
+(('content', 'capac', 'interact', 'source', 'select', 'organ'), 41) 3.20%
+(('capac', 'interact', 'source', 'select', 'organ', 'inclus'), 41) 3.20%
+(('interact', 'source', 'select', 'organ', 'inclus', 'design'), 41) 3.20%
+(('client', 'develop', 'document', 'websit', 'requir', 'lead'), 37) 2.89%
+(('develop', 'document', 'websit', 'requir', 'lead', 'coordin'), 37) 2.89%
+(('document', 'websit', 'requir', 'lead', 'coordin', 'multidisciplinari'), 37) 2.89%
+(('websit', 'requir', 'lead', 'coordin', 'multidisciplinari', 'team'), 37) 2.89%
+(('requir', 'lead', 'coordin', 'multidisciplinari', 'team', 'develop'), 37) 2.89%
+(('varieti', 'interact', 'media', 'softwar', 'product', 'prepar'), 35) 2.73%
+(('interact', 'media', 'softwar', 'product', 'prepar', 'mockup'), 35) 2.73%
+(('media', 'softwar', 'product', 'prepar', 'mockup', 'storyboard'), 35) 2.73%
+(('prepar', 'mockup', 'storyboard', 'consult', 'client', 'develop'), 34) 2.65%
+(('mockup', 'storyboard', 'consult', 'client', 'develop', 'document'), 34) 2.65%
+(('storyboard', 'consult', 'client', 'develop', 'document', 'websit'), 34) 2.65%
+(('softwar', 'product', 'prepar', 'mockup', 'storyboard', 'consult'), 31) 2.42%
+(('product', 'prepar', 'mockup', 'storyboard', 'consult', 'client'), 31) 2.42%
+(('dental', 'care', 'disabl', 'insur', 'extend', 'health'), 30) 2.34%
+(('care', 'disabl', 'insur', 'extend', 'health', 'care'), 30) 2.34%
+(('excel', 'oral', 'commun', 'excel', 'written', 'commun'), 29) 2.26%
+(('team', 'player', 'excel', 'oral', 'commun', 'excel'), 27) 2.11%
+(('player', 'excel', 'oral', 'commun', 'excel', 'written'), 27) 2.11%
+(('write', 'modify', 'integr', 'test', 'softwar', 'code'), 27) 2.11%
+(('oral', 'commun', 'excel', 'written', 'commun', 'client'), 26) 2.03%
+(('commun', 'excel', 'written', 'commun', 'client', 'focu'), 26) 2.03%
+(('maintain', 'exist', 'comput', 'program', 'make', 'modif'), 25) 1.95%
+(('exist', 'comput', 'program', 'make', 'modif', 'requir'), 25) 1.95%
+(('modify', 'integr', 'test', 'softwar', 'code', 'identifi'), 24) 1.87%
+(('integr', 'test', 'softwar', 'code', 'identifi', 'commun'), 24) 1.87%
+(('test', 'softwar', 'code', 'identifi', 'commun', 'technic'), 24) 1.87%
+(('softwar', 'code', 'identifi', 'commun', 'technic', 'problems'), 24) 1.87%
+(('code', 'identifi', 'commun', 'technic', 'problems', 'process'), 24) 1.87%
+(('identifi', 'commun', 'technic', 'problems', 'process', 'solut'), 24) 1.87%
+(('prepar', 'reports', 'manual', 'document', 'status', 'oper'), 24) 1.87%
+(('reports', 'manual', 'document', 'status', 'oper', 'mainten'), 24) 1.87%
+(('employe', 'assist', 'program', 'extend', 'health', 'care'), 24) 1.87%
+(('extend', 'health', 'care', 'flexibl', 'schedul', 'life'), 23) 1.80%
+(('health', 'care', 'flexibl', 'schedul', 'life', 'insur'), 23) 1.80%
+(('softwar', 'html', 'edit', 'softwar', 'web', 'design'), 23) 1.80%
+(('initi', 'effect', 'interperson', 'skill', 'team', 'player'), 22) 1.72%
+(('commun', 'technic', 'problems', 'process', 'solut', 'prepar'), 22) 1.72%
+(('technic', 'problems', 'process', 'solut', 'prepar', 'reports'), 22) 1.72%
+(('problems', 'process', 'solut', 'prepar', 'reports', 'manual'), 22) 1.72%
+(('process', 'solut', 'prepar', 'reports', 'manual', 'document'), 22) 1.72%
+(('solut', 'prepar', 'reports', 'manual', 'document', 'status'), 22) 1.72%
+(('manual', 'document', 'status', 'oper', 'mainten', 'softwar'), 22) 1.72%
+(('stateoftheart', 'offic', 'design', 'maxim', 'collabor', 'flexibl'), 21) 1.64%
+(('offic', 'design', 'maxim', 'collabor', 'flexibl', 'work'), 21) 1.64%
+(('design', 'maxim', 'collabor', 'flexibl', 'work', 'arrang'), 21) 1.64%
+(('maxim', 'collabor', 'flexibl', 'work', 'arrang', 'enrich'), 21) 1.64%
+(('collabor', 'flexibl', 'work', 'arrang', 'enrich', 'challeng'), 21) 1.64%
+(('flexibl', 'work', 'arrang', 'enrich', 'challeng', 'provid'), 21) 1.64%
+(('work', 'arrang', 'enrich', 'challeng', 'provid', 'opportun'), 21) 1.64%
+(('arrang', 'enrich', 'challeng', 'provid', 'opportun', 'constant'), 21) 1.64%
+(('enrich', 'challeng', 'provid', 'opportun', 'constant', 'learn'), 21) 1.64%
+(('challeng', 'provid', 'opportun', 'constant', 'learn', 'advanc'), 21) 1.64%
+(('provid', 'opportun', 'constant', 'learn', 'advanc', 'environ'), 21) 1.64%
+(('opportun', 'constant', 'learn', 'advanc', 'environ', 'leverag'), 21) 1.64%

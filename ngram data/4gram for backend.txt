@@ -1,50 +1,100 @@
-(('extend', 'health', 'care', 'flexibl'), 30)
-(('health', 'care', 'flexibl', 'schedul'), 30)
-(('bachelor', 'degre', 'comput', 'scienc'), 28)
-(('8', 'hour', 'shift', 'monday'), 24)
-(('hour', 'shift', 'monday', 'friday'), 24)
-(('dental', 'care', 'extend', 'health'), 22)
-(('care', 'extend', 'health', 'care'), 22)
-(('bachelor', 'degre', 'comput', 'science'), 20)
-(('dental', 'care', 'disabl', 'insur'), 20)
-(('vision', 'care', 'monday', 'friday'), 19)
-(('degre', 'comput', 'scienc', 'field'), 18)
-(('casual', 'dress', 'compani', 'event'), 18)
-(('flexibl', 'schedul', 'life', 'insur'), 18)
-(('compani', 'event', 'dental', 'care'), 16)
-(('softwar', 'develop', 'life', 'cycl'), 16)
-(('care', 'flexibl', 'schedul', 'life'), 16)
-(('casual', 'dress', 'dental', 'care'), 15)
-(('written', 'verbal', 'commun', 'skill'), 15)
-(('dress', 'compani', 'event', 'dental'), 14)
-(('verbal', 'written', 'commun', 'skills'), 14)
-(('life', 'insur', 'paid', 'time'), 14)
-(('care', '8', 'hour', 'shift'), 13)
-(('verbal', 'written', 'commun', 'skill'), 13)
-(('hour', 'shift', 'day', 'shift'), 12)
-(('degre', 'comput', 'science', 'comput'), 12)
-(('comput', 'science', 'comput', 'engin'), 12)
-(('strong', 'written', 'verbal', 'commun'), 12)
-(('vision', 'care', '8', 'hour'), 12)
-(('degre', 'comput', 'science', 'engin'), 12)
-(('8', 'hour', 'shift', 'day'), 11)
-(('degre', 'comput', 'scienc', 'relev'), 11)
-(('paid', 'time', 'vision', 'care'), 11)
-(('employe', 'share', 'purchas', 'plan'), 11)
-(('comput', 'science', 'comput', 'engineering'), 11)
-(('schedul', 'life', 'insur', 'paid'), 11)
-(('softwar', 'develop', 'life', 'cycle'), 10)
-(('excel', 'written', 'verbal', 'commun'), 10)
-(('day', 'shift', 'monday', 'friday'), 10)
-(('competit', 'salary', 'incent', 'pay'), 10)
-(('salary', 'incent', 'pay', 'bank'), 10)
-(('incent', 'pay', 'bank', 'benefits'), 10)
-(('pay', 'bank', 'benefits', 'health'), 10)
-(('bank', 'benefits', 'health', 'benefit'), 10)
-(('benefits', 'health', 'benefit', 'program'), 10)
-(('cibc', 'commit', 'creat', 'inclus'), 10)
-(('commit', 'creat', 'inclus', 'environ'), 10)
-(('creat', 'inclus', 'environ', 'team'), 10)
-(('inclus', 'environ', 'team', 'member'), 10)
-(('environ', 'team', 'member', 'client'), 10)
-(('team', 'member', 'client', 'feel'), 10)
+(('extend', 'health', 'care', 'flexibl'), 30) 3.80%
+(('health', 'care', 'flexibl', 'schedul'), 30) 3.80%
+(('bachelor', 'degre', 'comput', 'scienc'), 28) 3.54%
+(('8', 'hour', 'shift', 'monday'), 24) 3.04%
+(('hour', 'shift', 'monday', 'friday'), 24) 3.04%
+(('dental', 'care', 'extend', 'health'), 22) 2.78%
+(('care', 'extend', 'health', 'care'), 22) 2.78%
+(('bachelor', 'degre', 'comput', 'science'), 20) 2.53%
+(('dental', 'care', 'disabl', 'insur'), 20) 2.53%
+(('vision', 'care', 'monday', 'friday'), 19) 2.41%
+(('degre', 'comput', 'scienc', 'field'), 18) 2.28%
+(('casual', 'dress', 'compani', 'event'), 18) 2.28%
+(('flexibl', 'schedul', 'life', 'insur'), 18) 2.28%
+(('compani', 'event', 'dental', 'care'), 16) 2.03%
+(('softwar', 'develop', 'life', 'cycl'), 16) 2.03%
+(('care', 'flexibl', 'schedul', 'life'), 16) 2.03%
+(('casual', 'dress', 'dental', 'care'), 15) 1.90%
+(('written', 'verbal', 'commun', 'skill'), 15) 1.90%
+(('dress', 'compani', 'event', 'dental'), 14) 1.77%
+(('verbal', 'written', 'commun', 'skills'), 14) 1.77%
+(('life', 'insur', 'paid', 'time'), 14) 1.77%
+(('care', '8', 'hour', 'shift'), 13) 1.65%
+(('verbal', 'written', 'commun', 'skill'), 13) 1.65%
+(('hour', 'shift', 'day', 'shift'), 12) 1.52%
+(('degre', 'comput', 'science', 'comput'), 12) 1.52%
+(('comput', 'science', 'comput', 'engin'), 12) 1.52%
+(('strong', 'written', 'verbal', 'commun'), 12) 1.52%
+(('vision', 'care', '8', 'hour'), 12) 1.52%
+(('degre', 'comput', 'science', 'engin'), 12) 1.52%
+(('8', 'hour', 'shift', 'day'), 11) 1.39%
+(('degre', 'comput', 'scienc', 'relev'), 11) 1.39%
+(('paid', 'time', 'vision', 'care'), 11) 1.39%
+(('employe', 'share', 'purchas', 'plan'), 11) 1.39%
+(('comput', 'science', 'comput', 'engineering'), 11) 1.39%
+(('schedul', 'life', 'insur', 'paid'), 11) 1.39%
+(('excel', 'written', 'verbal', 'commun'), 10) 1.27%
+(('day', 'shift', 'monday', 'friday'), 10) 1.27%
+(('competit', 'salary', 'incent', 'pay'), 10) 1.27%
+(('salary', 'incent', 'pay', 'bank'), 10) 1.27%
+(('incent', 'pay', 'bank', 'benefits'), 10) 1.27%
+(('pay', 'bank', 'benefits', 'health'), 10) 1.27%
+(('bank', 'benefits', 'health', 'benefit'), 10) 1.27%
+(('benefits', 'health', 'benefit', 'program'), 10) 1.27%
+(('cibc', 'commit', 'creat', 'inclus'), 10) 1.27%
+(('commit', 'creat', 'inclus', 'environ'), 10) 1.27%
+(('creat', 'inclus', 'environ', 'team'), 10) 1.27%
+(('inclus', 'environ', 'team', 'member'), 10) 1.27%
+(('environ', 'team', 'member', 'client'), 10) 1.27%
+(('team', 'member', 'client', 'feel'), 10) 1.27%
+(('member', 'client', 'feel', 'belong'), 10) 1.27%
+(('seek', 'applic', 'wide', 'rang'), 10) 1.27%
+(('applic', 'wide', 'rang', 'abil'), 10) 1.27%
+(('wide', 'rang', 'abil', 'provid'), 10) 1.27%
+(('rang', 'abil', 'provid', 'access'), 10) 1.27%
+(('abil', 'provid', 'access', 'candid'), 10) 1.27%
+(('provid', 'access', 'candid', 'experience'), 10) 1.27%
+(('accommodation', 'contact', 'mailboxcareerscarrierescibccom', 'legal'), 10) 1.27%
+(('contact', 'mailboxcareerscarrierescibccom', 'legal', 'elig'), 10) 1.27%
+(('mailboxcareerscarrierescibccom', 'legal', 'elig', 'locations'), 10) 1.27%
+(('legal', 'elig', 'locations', 'and'), 10) 1.27%
+(('elig', 'locations', 'and', 'applicable'), 10) 1.27%
+(('locations', 'and', 'applicable', 'valid'), 10) 1.27%
+(('and', 'applicable', 'valid', 'studi'), 10) 1.27%
+(('applicable', 'valid', 'studi', 'permit'), 10) 1.27%
+(('explain', 'complex', 'technic', 'concept'), 10) 1.27%
+(('softwar', 'develop', 'life', 'cycle'), 9) 1.14%
+(('dress', 'dental', 'care', 'extend'), 9) 1.14%
+(('extend', 'health', 'care', 'paid'), 9) 1.14%
+(('health', 'care', 'paid', 'time'), 9) 1.14%
+(('travail', 'distanc', 'lundi', 'vendredi'), 9) 1.14%
+(('lead', 'design', 'develop', 'costeffect'), 9) 1.14%
+(('design', 'develop', 'costeffect', 'innov'), 9) 1.14%
+(('relationship', 'network', 'essenti', 'success'), 9) 1.14%
+(('seek', 'innov', 'solut', 'embrac'), 9) 1.14%
+(('innov', 'solut', 'embrac', 'evolv'), 9) 1.14%
+(('solut', 'embrac', 'evolv', 'technologies'), 9) 1.14%
+(('easili', 'adapt', 'tool', 'trends'), 9) 1.14%
+(('bring', 'real', 'live', 'valu'), 9) 1.14%
+(('real', 'live', 'valu', 'trust'), 9) 1.14%
+(('live', 'valu', 'trust', 'teamwork'), 9) 1.14%
+(('strong', 'verbal', 'written', 'commun'), 9) 1.14%
+(('insur', 'paid', 'time', 'vision'), 9) 1.14%
+(('complex', 'technic', 'concept', 'designers'), 9) 1.14%
+(('excel', 'verbal', 'written', 'commun'), 9) 1.14%
+(('well', 'program', '8', 'hour'), 8) 1.01%
+(('program', '8', 'hour', 'shift'), 8) 1.01%
+(('degre', 'comput', 'science', 'engineering'), 8) 1.01%
+(('profici', 'understand', 'code', 'version'), 8) 1.01%
+(('monday', 'friday', 'weekend', 'avail'), 8) 1.01%
+(('develop', 'inhouse', 'customerfac', 'applic'), 8) 1.01%
+(('inhouse', 'customerfac', 'applic', 'act'), 8) 1.01%
+(('customerfac', 'applic', 'act', 'mentor'), 8) 1.01%
+(('applic', 'act', 'mentor', 'junior'), 8) 1.01%
+(('act', 'mentor', 'junior', 'develop'), 8) 1.01%
+(('mentor', 'junior', 'develop', 'backend'), 8) 1.01%
+(('junior', 'develop', 'backend', 'phppython'), 8) 1.01%
+(('assist', 'develop', 'javascript', '3rd'), 8) 1.01%
+(('develop', 'javascript', '3rd', 'parti'), 8) 1.01%
+(('javascript', '3rd', 'parti', 'integrations'), 8) 1.01%
+(('3rd', 'parti', 'integrations', 'system'), 8) 1.01%

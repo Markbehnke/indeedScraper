@@ -1,50 +1,100 @@
-(('strong', 'verbal', 'written', 'commun', 'skill'), 43)
-(('extend', 'health', 'care', 'flexibl', 'schedul'), 41)
-(('write', 'modify', 'integr', 'test', 'softwar'), 39)
-(('modify', 'integr', 'test', 'softwar', 'code'), 39)
-(('casual', 'dress', 'compani', 'event', 'dental'), 29)
-(('dress', 'compani', 'event', 'dental', 'care'), 29)
-(('dental', 'care', 'extend', 'health', 'care'), 29)
-(('person', 'develop', 'opportun', 'possibl', 'multicultur'), 28)
-(('inform', 'atmosphere', 'dress', 'code', 'unwant'), 28)
-(('atmosphere', 'dress', 'code', 'unwant', 'formal'), 28)
-(('cv', 'highlight', 'education', 'experience', 'skill'), 27)
-(('verbal', 'written', 'commun', 'skill', 'abil'), 26)
-(('excel', 'verbal', 'written', 'commun', 'skill'), 26)
-(('degre', 'comput', 'scienc', 'comput', 'engin'), 25)
-(('profession', 'develop', 'budget', 'day', 'interestfre'), 25)
-(('develop', 'budget', 'day', 'interestfre', 'techenabl'), 25)
-(('budget', 'day', 'interestfre', 'techenabl', 'loan'), 25)
-(('day', 'interestfre', 'techenabl', 'loan', 'career'), 25)
-(('interestfre', 'techenabl', 'loan', 'career', 'mentor'), 25)
-(('techenabl', 'loan', 'career', 'mentor', 'support'), 25)
-(('loan', 'career', 'mentor', 'support', 'growth'), 25)
-(('career', 'mentor', 'support', 'growth', 'develop'), 25)
-(('mentor', 'support', 'growth', 'develop', 'rrsp401k'), 25)
-(('support', 'growth', 'develop', 'rrsp401k', 'match'), 25)
-(('growth', 'develop', 'rrsp401k', 'match', 'bonu'), 25)
-(('develop', 'rrsp401k', 'match', 'bonu', 'program'), 25)
-(('rrsp401k', 'match', 'bonu', 'program', 'well'), 25)
-(('match', 'bonu', 'program', 'well', 'program'), 25)
-(('assist', 'collect', 'document', 'user', 'requir'), 24)
-(('verbal', 'written', 'commun', 'skill', 'english'), 23)
-(('8', 'hour', 'shift', 'monday', 'friday'), 22)
-(('collect', 'document', 'user', 'requir', 'assist'), 22)
-(('document', 'user', 'requir', 'assist', 'develop'), 22)
-(('user', 'requir', 'assist', 'develop', 'logic'), 22)
-(('requir', 'assist', 'develop', 'logic', 'physic'), 22)
-(('assist', 'develop', 'logic', 'physic', 'specif'), 22)
-(('excel', 'written', 'verbal', 'commun', 'skill'), 22)
-(('vision', 'care', '8', 'hour', 'shift'), 22)
-(('young', 'organ', 'true', 'impact', 'daili'), 22)
-(('opportun', 'innovative', 'excit', 'aaa', 'project'), 22)
-(('innovative', 'excit', 'aaa', 'project', 'newest'), 22)
-(('disabl', 'insur', 'extend', 'health', 'care'), 21)
-(('prepar', 'reports', 'manual', 'document', 'status'), 21)
-(('reports', 'manual', 'document', 'status', 'oper'), 21)
-(('manual', 'document', 'status', 'oper', 'mainten'), 21)
-(('competit', 'salari', 'person', 'develop', 'opportun'), 21)
-(('salari', 'person', 'develop', 'opportun', 'possibl'), 21)
-(('selfmotiv', 'collabor', 'team', 'member', 'develop'), 21)
-(('collabor', 'team', 'member', 'develop', 'disciplin'), 21)
-(('identifi', 'commun', 'technic', 'problems', 'process'), 20)
+(('strong', 'verbal', 'written', 'commun', 'skill'), 43) 3.14%
+(('extend', 'health', 'care', 'flexibl', 'schedul'), 41) 2.99%
+(('casual', 'dress', 'compani', 'event', 'dental'), 29) 2.12%
+(('dress', 'compani', 'event', 'dental', 'care'), 29) 2.12%
+(('dental', 'care', 'extend', 'health', 'care'), 28) 2.04%
+(('person', 'develop', 'opportun', 'possibl', 'multicultur'), 28) 2.04%
+(('inform', 'atmosphere', 'dress', 'code', 'unwant'), 28) 2.04%
+(('atmosphere', 'dress', 'code', 'unwant', 'formal'), 28) 2.04%
+(('cv', 'highlight', 'education', 'experience', 'skill'), 27) 1.97%
+(('verbal', 'written', 'commun', 'skill', 'abil'), 26) 1.90%
+(('excel', 'verbal', 'written', 'commun', 'skill'), 26) 1.90%
+(('degre', 'comput', 'scienc', 'comput', 'engin'), 25) 1.82%
+(('profession', 'develop', 'budget', 'day', 'interestfre'), 25) 1.82%
+(('develop', 'budget', 'day', 'interestfre', 'techenabl'), 25) 1.82%
+(('budget', 'day', 'interestfre', 'techenabl', 'loan'), 25) 1.82%
+(('day', 'interestfre', 'techenabl', 'loan', 'career'), 25) 1.82%
+(('interestfre', 'techenabl', 'loan', 'career', 'mentor'), 25) 1.82%
+(('techenabl', 'loan', 'career', 'mentor', 'support'), 25) 1.82%
+(('loan', 'career', 'mentor', 'support', 'growth'), 25) 1.82%
+(('career', 'mentor', 'support', 'growth', 'develop'), 25) 1.82%
+(('mentor', 'support', 'growth', 'develop', 'rrsp401k'), 25) 1.82%
+(('support', 'growth', 'develop', 'rrsp401k', 'match'), 25) 1.82%
+(('growth', 'develop', 'rrsp401k', 'match', 'bonu'), 25) 1.82%
+(('develop', 'rrsp401k', 'match', 'bonu', 'program'), 25) 1.82%
+(('rrsp401k', 'match', 'bonu', 'program', 'well'), 25) 1.82%
+(('match', 'bonu', 'program', 'well', 'program'), 25) 1.82%
+(('verbal', 'written', 'commun', 'skill', 'english'), 23) 1.68%
+(('8', 'hour', 'shift', 'monday', 'friday'), 22) 1.60%
+(('excel', 'written', 'verbal', 'commun', 'skill'), 22) 1.60%
+(('vision', 'care', '8', 'hour', 'shift'), 22) 1.60%
+(('young', 'organ', 'true', 'impact', 'daili'), 22) 1.60%
+(('opportun', 'innovative', 'excit', 'aaa', 'project'), 22) 1.60%
+(('innovative', 'excit', 'aaa', 'project', 'newest'), 22) 1.60%
+(('disabl', 'insur', 'extend', 'health', 'care'), 21) 1.53%
+(('prepar', 'reports', 'manual', 'document', 'status'), 21) 1.53%
+(('reports', 'manual', 'document', 'status', 'oper'), 21) 1.53%
+(('manual', 'document', 'status', 'oper', 'mainten'), 21) 1.53%
+(('assist', 'collect', 'document', 'user', 'requir'), 21) 1.53%
+(('competit', 'salari', 'person', 'develop', 'opportun'), 21) 1.53%
+(('salari', 'person', 'develop', 'opportun', 'possibl'), 21) 1.53%
+(('selfmotiv', 'collabor', 'team', 'member', 'develop'), 21) 1.53%
+(('collabor', 'team', 'member', 'develop', 'disciplin'), 21) 1.53%
+(('write', 'modify', 'integr', 'test', 'softwar'), 20) 1.46%
+(('modify', 'integr', 'test', 'softwar', 'code'), 20) 1.46%
+(('identifi', 'commun', 'technic', 'problems', 'process'), 20) 1.46%
+(('commun', 'technic', 'problems', 'process', 'solut'), 20) 1.46%
+(('technic', 'problems', 'process', 'solut', 'prepar'), 20) 1.46%
+(('problems', 'process', 'solut', 'prepar', 'reports'), 20) 1.46%
+(('process', 'solut', 'prepar', 'reports', 'manual'), 20) 1.46%
+(('solut', 'prepar', 'reports', 'manual', 'document'), 20) 1.46%
+(('document', 'status', 'oper', 'mainten', 'softwar'), 20) 1.46%
+(('status', 'oper', 'mainten', 'softwar', 'assist'), 20) 1.46%
+(('oper', 'mainten', 'softwar', 'assist', 'collect'), 20) 1.46%
+(('mainten', 'softwar', 'assist', 'collect', 'document'), 20) 1.46%
+(('softwar', 'assist', 'collect', 'document', 'user'), 20) 1.46%
+(('maintain', 'exist', 'comput', 'program', 'make'), 20) 1.46%
+(('exist', 'comput', 'program', 'make', 'modif'), 20) 1.46%
+(('comput', 'program', 'make', 'modif', 'requir'), 20) 1.46%
+(('program', 'anim', 'softwar', 'predefin', 'specif'), 20) 1.46%
+(('anim', 'softwar', 'predefin', 'specif', 'interact'), 20) 1.46%
+(('compani', 'event', 'dental', 'care', 'extend'), 20) 1.46%
+(('event', 'dental', 'care', 'extend', 'health'), 20) 1.46%
+(('dental', 'care', 'disabl', 'insur', 'extend'), 19) 1.39%
+(('care', 'disabl', 'insur', 'extend', 'health'), 19) 1.39%
+(('collect', 'document', 'user', 'requir', 'assist'), 19) 1.39%
+(('document', 'user', 'requir', 'assist', 'develop'), 19) 1.39%
+(('user', 'requir', 'assist', 'develop', 'logic'), 19) 1.39%
+(('requir', 'assist', 'develop', 'logic', 'physic'), 19) 1.39%
+(('assist', 'develop', 'logic', 'physic', 'specif'), 19) 1.39%
+(('solut', 'solv', 'complex', 'problem', 'blocker'), 19) 1.39%
+(('perform', 'reviews', 'ongo', 'mentorship', 'feedback'), 19) 1.39%
+(('reviews', 'ongo', 'mentorship', 'feedback', 'regular'), 19) 1.39%
+(('ongo', 'mentorship', 'feedback', 'regular', '1on1'), 19) 1.39%
+(('ship', 'multipl', 'game', 'titl', 'andor'), 19) 1.39%
+(('multipl', 'game', 'titl', 'andor', 'consol'), 19) 1.39%
+(('hybrid', 'flexibl', 'model', 'week', 'vacat'), 18) 1.31%
+(('flexibl', 'model', 'week', 'vacat', 'enhanc'), 18) 1.31%
+(('model', 'week', 'vacat', 'enhanc', 'parent'), 18) 1.31%
+(('week', 'vacat', 'enhanc', 'parent', 'leav'), 18) 1.31%
+(('vacat', 'enhanc', 'parent', 'leav', 'program'), 18) 1.31%
+(('enhanc', 'parent', 'leav', 'program', 'competit'), 18) 1.31%
+(('parent', 'leav', 'program', 'competit', 'salari'), 18) 1.31%
+(('leav', 'program', 'competit', 'salari', 'comprehens'), 18) 1.31%
+(('program', 'competit', 'salari', 'comprehens', 'benefit'), 18) 1.31%
+(('bachelor', 'degre', 'comput', 'scienc', 'comput'), 18) 1.31%
+(('write', 'solid', 'reliable', 'effici', 'code'), 18) 1.31%
+(('integr', 'test', 'softwar', 'code', 'identifi'), 17) 1.24%
+(('test', 'softwar', 'code', 'identifi', 'commun'), 17) 1.24%
+(('softwar', 'code', 'identifi', 'commun', 'technic'), 17) 1.24%
+(('code', 'identifi', 'commun', 'technic', 'problems'), 17) 1.24%
+(('softwar', 'predefin', 'specif', 'interact', 'cds'), 17) 1.24%
+(('predefin', 'specif', 'interact', 'cds', 'dvds'), 17) 1.24%
+(('specif', 'interact', 'cds', 'dvds', 'video'), 17) 1.24%
+(('interact', 'cds', 'dvds', 'video', 'game'), 17) 1.24%
+(('cds', 'dvds', 'video', 'game', 'cartridg'), 17) 1.24%
+(('dvds', 'video', 'game', 'cartridg', 'internetbas'), 17) 1.24%
+(('video', 'game', 'cartridg', 'internetbas', 'applic'), 17) 1.24%
+(('care', 'extend', 'health', 'care', 'flexibl'), 17) 1.24%
+(('develop', 'opportun', 'possibl', 'multicultur', 'environ'), 17) 1.24%
+(('develop', 'logic', 'physic', 'specif', 'evalu'), 16) 1.17%

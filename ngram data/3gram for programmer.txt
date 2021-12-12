@@ -1,50 +1,100 @@
-(('write', 'modify', 'integr'), 91)
-(('modify', 'integr', 'test'), 91)
-(('integr', 'test', 'softwar'), 75)
-(('test', 'softwar', 'code'), 75)
-(('8', 'hour', 'shift'), 62)
-(('extend', 'health', 'care'), 53)
-(('maintain', 'exist', 'comput'), 42)
-(('exist', 'comput', 'program'), 42)
-(('comput', 'program', 'make'), 42)
-(('program', 'make', 'modif'), 42)
-(('identifi', 'commun', 'technic'), 41)
-(('commun', 'technic', 'problems'), 41)
-(('prepar', 'reports', 'manual'), 39)
-(('reports', 'manual', 'document'), 39)
-(('manual', 'document', 'status'), 39)
-(('document', 'status', 'oper'), 39)
-(('status', 'oper', 'mainten'), 39)
-(('technic', 'problems', 'process'), 39)
-(('make', 'modif', 'requir'), 39)
-(('collect', 'document', 'user'), 39)
-(('oper', 'mainten', 'softwar'), 38)
-(('team', 'player', 'excel'), 38)
-(('softwar', 'code', 'identifi'), 38)
-(('code', 'identifi', 'commun'), 38)
-(('problems', 'process', 'solut'), 38)
-(('document', 'user', 'requir'), 38)
-(('mainten', 'softwar', 'assist'), 37)
-(('develop', 'logic', 'physic'), 36)
-(('assist', 'collect', 'document'), 36)
-(('logic', 'physic', 'specif'), 35)
-(('process', 'solut', 'prepar'), 35)
-(('solut', 'prepar', 'reports'), 35)
-(('dental', 'care', 'extend'), 34)
-(('care', 'extend', 'health'), 34)
-(('effect', 'interperson', 'skill'), 34)
-(('assist', 'develop', 'logic'), 33)
-(('softwar', 'code', 'ecommerc'), 33)
-(('code', 'ecommerc', 'internet'), 33)
-(('softwar', 'assist', 'collect'), 33)
-(('player', 'excel', 'oral'), 32)
-(('excel', 'oral', 'commun'), 32)
-(('ecommerc', 'internet', 'applic'), 31)
-(('accur', 'team', 'player'), 31)
-(('modif', 'requir', 'write'), 29)
-(('requir', 'write', 'modify'), 29)
-(('initi', 'effect', 'interperson'), 29)
-(('care', '8', 'hour'), 28)
-(('excel', 'written', 'commun'), 28)
-(('user', 'requir', 'assist'), 28)
-(('requir', 'assist', 'develop'), 28)
+(('8', 'hour', 'shift'), 61) 12.79%
+(('write', 'modify', 'integr'), 58) 12.16%
+(('modify', 'integr', 'test'), 58) 12.16%
+(('extend', 'health', 'care'), 52) 10.90%
+(('integr', 'test', 'softwar'), 44) 9.22%
+(('test', 'softwar', 'code'), 44) 9.22%
+(('maintain', 'exist', 'comput'), 42) 8.81%
+(('exist', 'comput', 'program'), 42) 8.81%
+(('comput', 'program', 'make'), 42) 8.81%
+(('program', 'make', 'modif'), 42) 8.81%
+(('identifi', 'commun', 'technic'), 41) 8.60%
+(('commun', 'technic', 'problems'), 41) 8.60%
+(('prepar', 'reports', 'manual'), 39) 8.18%
+(('reports', 'manual', 'document'), 39) 8.18%
+(('manual', 'document', 'status'), 39) 8.18%
+(('document', 'status', 'oper'), 39) 8.18%
+(('status', 'oper', 'mainten'), 39) 8.18%
+(('technic', 'problems', 'process'), 39) 8.18%
+(('make', 'modif', 'requir'), 39) 8.18%
+(('collect', 'document', 'user'), 39) 8.18%
+(('oper', 'mainten', 'softwar'), 38) 7.97%
+(('team', 'player', 'excel'), 38) 7.97%
+(('softwar', 'code', 'identifi'), 38) 7.97%
+(('code', 'identifi', 'commun'), 38) 7.97%
+(('problems', 'process', 'solut'), 38) 7.97%
+(('document', 'user', 'requir'), 38) 7.97%
+(('mainten', 'softwar', 'assist'), 37) 7.76%
+(('develop', 'logic', 'physic'), 36) 7.55%
+(('assist', 'collect', 'document'), 36) 7.55%
+(('logic', 'physic', 'specif'), 35) 7.34%
+(('process', 'solut', 'prepar'), 35) 7.34%
+(('solut', 'prepar', 'reports'), 35) 7.34%
+(('effect', 'interperson', 'skill'), 34) 7.13%
+(('assist', 'develop', 'logic'), 33) 6.92%
+(('dental', 'care', 'extend'), 33) 6.92%
+(('care', 'extend', 'health'), 33) 6.92%
+(('softwar', 'code', 'ecommerc'), 33) 6.92%
+(('code', 'ecommerc', 'internet'), 33) 6.92%
+(('softwar', 'assist', 'collect'), 33) 6.92%
+(('player', 'excel', 'oral'), 32) 6.71%
+(('excel', 'oral', 'commun'), 32) 6.71%
+(('ecommerc', 'internet', 'applic'), 31) 6.50%
+(('accur', 'team', 'player'), 31) 6.50%
+(('modif', 'requir', 'write'), 29) 6.08%
+(('requir', 'write', 'modify'), 29) 6.08%
+(('initi', 'effect', 'interperson'), 29) 6.08%
+(('care', '8', 'hour'), 28) 5.87%
+(('excel', 'written', 'commun'), 28) 5.87%
+(('user', 'requir', 'assist'), 28) 5.87%
+(('requir', 'assist', 'develop'), 28) 5.87%
+(('oral', 'commun', 'excel'), 26) 5.45%
+(('commun', 'excel', 'written'), 26) 5.45%
+(('degre', 'comput', 'scienc'), 26) 5.45%
+(('vision', 'care', '8'), 25) 5.24%
+(('interperson', 'skill', 'accur'), 23) 4.82%
+(('skill', 'accur', 'team'), 23) 4.82%
+(('commun', 'client', 'focu'), 23) 4.82%
+(('evalu', 'varieti', 'softwar'), 23) 4.82%
+(('varieti', 'softwar', 'product'), 23) 4.82%
+(('javascript', 'html', 'css'), 23) 4.82%
+(('shift', 'monday', 'friday'), 22) 4.61%
+(('fastpac', 'environ', 'pressur'), 22) 4.61%
+(('compani', 'event', 'dental'), 21) 4.40%
+(('event', 'dental', 'care'), 21) 4.40%
+(('bachelor', 'degre', 'comput'), 21) 4.40%
+(('degre', 'comput', 'science'), 21) 4.40%
+(('physic', 'specif', 'evalu'), 20) 4.19%
+(('specif', 'evalu', 'varieti'), 20) 4.19%
+(('benefit', 'dental', 'benefit'), 19) 3.98%
+(('group', 'insur', 'benefit'), 19) 3.98%
+(('softwar', 'program', 'softwar'), 19) 3.98%
+(('sit', 'tight', 'deadlin'), 19) 3.98%
+(('comput', 'science', 'softwar'), 19) 3.98%
+(('softwar', 'develop', 'websit'), 18) 3.77%
+(('written', 'commun', 'client'), 18) 3.77%
+(('care', 'flexibl', 'schedul'), 18) 3.77%
+(('written', 'commun', 'skill'), 17) 3.56%
+(('softwar', 'softwar', 'develop'), 17) 3.56%
+(('health', 'care', 'flexibl'), 17) 3.56%
+(('casual', 'dress', 'compani'), 16) 3.35%
+(('dress', 'compani', 'event'), 16) 3.35%
+(('benefit', 'group', 'insur'), 16) 3.35%
+(('client', 'focu', 'judgement'), 16) 3.35%
+(('focu', 'judgement', 'organ'), 16) 3.35%
+(('employe', 'assist', 'program'), 16) 3.35%
+(('softwar', 'web', 'design'), 15) 3.14%
+(('attent', 'sit', 'tight'), 15) 3.14%
+(('dental', 'care', 'disabl'), 15) 3.14%
+(('care', 'disabl', 'insur'), 15) 3.14%
+(('softwar', 'product', 'maintain'), 15) 3.14%
+(('product', 'maintain', 'exist'), 15) 3.14%
+(('life', 'insur', 'benefit'), 14) 2.94%
+(('care', 'life', 'insur'), 14) 2.94%
+(('dental', 'benefit', 'group'), 14) 2.94%
+(('flexibl', 'schedul', 'life'), 14) 2.94%
+(('schedul', 'life', 'insur'), 14) 2.94%
+(('life', 'insur', 'paid'), 14) 2.94%
+(('insur', 'paid', 'time'), 14) 2.94%
+(('consult', 'client', 'develop'), 14) 2.94%
+(('client', 'develop', 'document'), 14) 2.94%

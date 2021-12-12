@@ -1,50 +1,100 @@
-(('degre', 'comput', 'scienc'), 138)
-(('bachelor', 'degre', 'comput'), 128)
-(('degre', 'comput', 'science'), 109)
-(('verbal', 'written', 'commun'), 97)
-(('written', 'commun', 'skill'), 87)
-(('excel', 'commun', 'skill'), 81)
-(('extend', 'health', 'care'), 70)
-(('written', 'verbal', 'commun'), 64)
-(('commun', 'skill', 'abil'), 62)
-(('collabor', 'team', 'member'), 61)
-(('comput', 'scienc', 'equival'), 54)
-(('strong', 'verbal', 'written'), 46)
-(('verbal', 'commun', 'skill'), 44)
-(('8', 'hour', 'shift'), 42)
-(('excel', 'verbal', 'written'), 41)
-(('health', 'care', 'flexibl'), 41)
-(('care', 'flexibl', 'schedul'), 41)
-(('excel', 'written', 'verbal'), 40)
-(('employe', 'assist', 'program'), 40)
-(('write', 'modify', 'integr'), 39)
-(('modify', 'integr', 'test'), 39)
-(('integr', 'test', 'softwar'), 39)
-(('test', 'softwar', 'code'), 39)
-(('casual', 'dress', 'compani'), 36)
-(('interperson', 'skill', 'abil'), 36)
-(('cv', 'highlight', 'education'), 36)
-(('highlight', 'education', 'experience'), 36)
-(('une', 'exprienc', 'dan'), 35)
-(('comput', 'science', 'comput'), 34)
-(('dress', 'compani', 'event'), 33)
-(('problem', 'solv', 'skill'), 33)
-(('particip', 'code', 'review'), 33)
-(('health', 'dental', 'vision'), 33)
-(('onli', 'perman', 'employees'), 33)
-(('une', 'exprienc', 'avec'), 33)
-(('commun', 'skill', 'english'), 33)
-(('compani', 'event', 'dental'), 32)
-(('event', 'dental', 'care'), 32)
-(('interperson', 'commun', 'skill'), 32)
-(('proven', 'track', 'record'), 32)
-(('comput', 'scienc', 'field'), 31)
-(('unreal', 'engin', '4'), 31)
-(('provid', 'career', 'manag'), 30)
-(('dental', 'care', 'extend'), 29)
-(('care', 'extend', 'health'), 29)
-(('extend', 'health', 'dental'), 29)
-(('solv', 'complex', 'problem'), 29)
-(('3', 'an', 'dexprienc'), 29)
-(('shift', 'monday', 'friday'), 28)
-(('flexibl', 'work', 'hour'), 28)
+(('degre', 'comput', 'scienc'), 138) 10.07%
+(('bachelor', 'degre', 'comput'), 123) 8.97%
+(('degre', 'comput', 'science'), 104) 7.59%
+(('verbal', 'written', 'commun'), 97) 7.08%
+(('written', 'commun', 'skill'), 87) 6.35%
+(('excel', 'commun', 'skill'), 74) 5.40%
+(('extend', 'health', 'care'), 69) 5.03%
+(('written', 'verbal', 'commun'), 64) 4.67%
+(('commun', 'skill', 'abil'), 62) 4.52%
+(('comput', 'scienc', 'equival'), 54) 3.94%
+(('collabor', 'team', 'member'), 51) 3.72%
+(('strong', 'verbal', 'written'), 46) 3.36%
+(('verbal', 'commun', 'skill'), 44) 3.21%
+(('8', 'hour', 'shift'), 42) 3.06%
+(('excel', 'verbal', 'written'), 41) 2.99%
+(('health', 'care', 'flexibl'), 41) 2.99%
+(('care', 'flexibl', 'schedul'), 41) 2.99%
+(('excel', 'written', 'verbal'), 40) 2.92%
+(('employe', 'assist', 'program'), 40) 2.92%
+(('casual', 'dress', 'compani'), 36) 2.63%
+(('interperson', 'skill', 'abil'), 36) 2.63%
+(('cv', 'highlight', 'education'), 36) 2.63%
+(('highlight', 'education', 'experience'), 36) 2.63%
+(('comput', 'science', 'comput'), 34) 2.48%
+(('dress', 'compani', 'event'), 33) 2.41%
+(('problem', 'solv', 'skill'), 33) 2.41%
+(('particip', 'code', 'review'), 33) 2.41%
+(('health', 'dental', 'vision'), 33) 2.41%
+(('commun', 'skill', 'english'), 33) 2.41%
+(('compani', 'event', 'dental'), 32) 2.33%
+(('event', 'dental', 'care'), 32) 2.33%
+(('interperson', 'commun', 'skill'), 32) 2.33%
+(('comput', 'scienc', 'field'), 31) 2.26%
+(('proven', 'track', 'record'), 31) 2.26%
+(('extend', 'health', 'dental'), 29) 2.12%
+(('solv', 'complex', 'problem'), 29) 2.12%
+(('shift', 'monday', 'friday'), 28) 2.04%
+(('flexibl', 'work', 'hour'), 28) 2.04%
+(('dental', 'care', 'extend'), 28) 2.04%
+(('care', 'extend', 'health'), 28) 2.04%
+(('strong', 'commun', 'skill'), 28) 2.04%
+(('rsoudr', 'de', 'problm'), 28) 2.04%
+(('person', 'develop', 'opportun'), 28) 2.04%
+(('develop', 'opportun', 'possibl'), 28) 2.04%
+(('opportun', 'possibl', 'multicultur'), 28) 2.04%
+(('inform', 'atmosphere', 'dress'), 28) 2.04%
+(('atmosphere', 'dress', 'code'), 28) 2.04%
+(('dress', 'code', 'unwant'), 28) 2.04%
+(('code', 'unwant', 'formal'), 28) 2.04%
+(('education', 'experience', 'skill'), 27) 1.97%
+(('profession', 'develop', 'budget'), 27) 1.97%
+(('dental', 'care', 'disabl'), 26) 1.90%
+(('care', 'disabl', 'insur'), 26) 1.90%
+(('comput', 'scienc', 'comput'), 26) 1.90%
+(('travail', 'avec', 'de'), 26) 1.90%
+(('unreal', 'engin', '4'), 26) 1.90%
+(('une', 'exprienc', 'avec'), 26) 1.90%
+(('comput', 'scienc', 'softwar'), 25) 1.82%
+(('softwar', 'develop', 'life'), 25) 1.82%
+(('scienc', 'comput', 'engin'), 25) 1.82%
+(('develop', 'budget', 'day'), 25) 1.82%
+(('budget', 'day', 'interestfre'), 25) 1.82%
+(('day', 'interestfre', 'techenabl'), 25) 1.82%
+(('interestfre', 'techenabl', 'loan'), 25) 1.82%
+(('techenabl', 'loan', 'career'), 25) 1.82%
+(('loan', 'career', 'mentor'), 25) 1.82%
+(('career', 'mentor', 'support'), 25) 1.82%
+(('mentor', 'support', 'growth'), 25) 1.82%
+(('support', 'growth', 'develop'), 25) 1.82%
+(('growth', 'develop', 'rrsp401k'), 25) 1.82%
+(('develop', 'rrsp401k', 'match'), 25) 1.82%
+(('rrsp401k', 'match', 'bonu'), 25) 1.82%
+(('match', 'bonu', 'program'), 25) 1.82%
+(('bonu', 'program', 'well'), 25) 1.82%
+(('program', 'well', 'program'), 25) 1.82%
+(('care', '8', 'hour'), 25) 1.82%
+(('assist', 'collect', 'document'), 24) 1.75%
+(('collect', 'document', 'user'), 24) 1.75%
+(('comput', 'science', 'softwar'), 24) 1.75%
+(('deliv', 'high', 'qualiti'), 24) 1.75%
+(('commun', 'skills', 'abil'), 24) 1.75%
+(('design', 'implement', 'test'), 24) 1.75%
+(('scienc', 'softwar', 'engin'), 23) 1.68%
+(('cv', 'highlight', 'background'), 23) 1.68%
+(('profession', 'softwar', 'develop'), 23) 1.68%
+(('benefit', 'packag', 'includ'), 23) 1.68%
+(('3', 'an', 'dexprienc'), 23) 1.68%
+(('une', 'exprienc', 'dan'), 23) 1.68%
+(('hour', 'shift', 'monday'), 22) 1.60%
+(('rrsp', 'match', 'program'), 22) 1.60%
+(('vision', 'care', '8'), 22) 1.60%
+(('team', 'member', 'develop'), 22) 1.60%
+(('young', 'organ', 'true'), 22) 1.60%
+(('organ', 'true', 'impact'), 22) 1.60%
+(('true', 'impact', 'daili'), 22) 1.60%
+(('opportun', 'innovative', 'excit'), 22) 1.60%
+(('innovative', 'excit', 'aaa'), 22) 1.60%
+(('excit', 'aaa', 'project'), 22) 1.60%
+(('aaa', 'project', 'newest'), 22) 1.60%
+(('disabl', 'insur', 'extend'), 21) 1.53%

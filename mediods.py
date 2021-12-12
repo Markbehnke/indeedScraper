@@ -98,9 +98,10 @@ class main:
             print(matrix[i][j], end="")
             print(" , ", end="")
         print(" : \n")
-
-    labels = allFiles
+    labels = []
+    for fileName in allFiles:
+        labels.append(fileName.replace(".txt", ""))
     Z = linkage(matrix, 'single')
-    fig = plt.figure(figsize=(25, 10))
+    fig = plt.figure(figsize=(50, 20))
     dn = dendrogram(Z, labels=labels)
     plt.show()

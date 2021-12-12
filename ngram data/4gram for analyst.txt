@@ -1,50 +1,100 @@
-(('write', 'modify', 'integr', 'test'), 75)
-(('modify', 'integr', 'test', 'softwar'), 73)
-(('integr', 'test', 'softwar', 'code'), 73)
-(('team', 'player', 'excel', 'oral'), 60)
-(('player', 'excel', 'oral', 'commun'), 60)
-(('collect', 'document', 'user', 'requir'), 60)
-(('develop', 'logic', 'physic', 'specif'), 60)
-(('excel', 'oral', 'commun', 'excel'), 59)
-(('oral', 'commun', 'excel', 'written'), 59)
-(('commun', 'excel', 'written', 'commun'), 59)
-(('initi', 'effect', 'interperson', 'skill'), 47)
-(('excel', 'written', 'commun', 'client'), 46)
-(('written', 'commun', 'client', 'focu'), 46)
-(('prepar', 'reports', 'manual', 'document'), 46)
-(('identifi', 'commun', 'technic', 'problems'), 45)
-(('commun', 'technic', 'problems', 'process'), 44)
-(('technic', 'problems', 'process', 'solut'), 44)
-(('assist', 'collect', 'document', 'user'), 44)
-(('maintain', 'exist', 'comput', 'program'), 44)
-(('exist', 'comput', 'program', 'make'), 44)
-(('comput', 'program', 'make', 'modif'), 44)
-(('program', 'make', 'modif', 'requir'), 44)
-(('client', 'focu', 'judgement', 'organ'), 43)
-(('effect', 'interperson', 'skill', 'accur'), 43)
-(('accur', 'team', 'player', 'excel'), 43)
-(('interperson', 'skill', 'accur', 'team'), 42)
-(('skill', 'accur', 'team', 'player'), 42)
-(('test', 'softwar', 'code', 'identifi'), 42)
-(('softwar', 'code', 'identifi', 'commun'), 42)
-(('code', 'identifi', 'commun', 'technic'), 42)
-(('reports', 'manual', 'document', 'status'), 42)
-(('manual', 'document', 'status', 'oper'), 42)
-(('document', 'status', 'oper', 'mainten'), 42)
-(('status', 'oper', 'mainten', 'softwar'), 41)
-(('assist', 'develop', 'logic', 'physic'), 40)
-(('problems', 'process', 'solut', 'prepar'), 39)
-(('process', 'solut', 'prepar', 'reports'), 39)
-(('solut', 'prepar', 'reports', 'manual'), 39)
-(('oper', 'mainten', 'softwar', 'assist'), 39)
-(('document', 'user', 'requir', 'assist'), 37)
-(('user', 'requir', 'assist', 'develop'), 37)
-(('requir', 'assist', 'develop', 'logic'), 37)
-(('evalu', 'varieti', 'softwar', 'product'), 37)
-(('commun', 'client', 'focu', 'judgement'), 36)
-(('mainten', 'softwar', 'assist', 'collect'), 36)
-(('softwar', 'assist', 'collect', 'document'), 36)
-(('dental', 'care', 'extend', 'health'), 33)
-(('care', 'extend', 'health', 'care'), 33)
-(('logic', 'physic', 'specif', 'evalu'), 32)
-(('physic', 'specif', 'evalu', 'varieti'), 32)
+(('team', 'player', 'excel', 'oral'), 60) 8.17%
+(('player', 'excel', 'oral', 'commun'), 60) 8.17%
+(('collect', 'document', 'user', 'requir'), 60) 8.17%
+(('develop', 'logic', 'physic', 'specif'), 60) 8.17%
+(('excel', 'oral', 'commun', 'excel'), 59) 8.04%
+(('oral', 'commun', 'excel', 'written'), 59) 8.04%
+(('commun', 'excel', 'written', 'commun'), 59) 8.04%
+(('initi', 'effect', 'interperson', 'skill'), 47) 6.40%
+(('excel', 'written', 'commun', 'client'), 46) 6.27%
+(('written', 'commun', 'client', 'focu'), 46) 6.27%
+(('prepar', 'reports', 'manual', 'document'), 46) 6.27%
+(('identifi', 'commun', 'technic', 'problems'), 45) 6.13%
+(('write', 'modify', 'integr', 'test'), 44) 5.99%
+(('commun', 'technic', 'problems', 'process'), 44) 5.99%
+(('technic', 'problems', 'process', 'solut'), 44) 5.99%
+(('assist', 'collect', 'document', 'user'), 44) 5.99%
+(('maintain', 'exist', 'comput', 'program'), 44) 5.99%
+(('exist', 'comput', 'program', 'make'), 44) 5.99%
+(('comput', 'program', 'make', 'modif'), 44) 5.99%
+(('program', 'make', 'modif', 'requir'), 44) 5.99%
+(('client', 'focu', 'judgement', 'organ'), 43) 5.86%
+(('effect', 'interperson', 'skill', 'accur'), 43) 5.86%
+(('accur', 'team', 'player', 'excel'), 43) 5.86%
+(('interperson', 'skill', 'accur', 'team'), 42) 5.72%
+(('skill', 'accur', 'team', 'player'), 42) 5.72%
+(('modify', 'integr', 'test', 'softwar'), 42) 5.72%
+(('integr', 'test', 'softwar', 'code'), 42) 5.72%
+(('test', 'softwar', 'code', 'identifi'), 42) 5.72%
+(('softwar', 'code', 'identifi', 'commun'), 42) 5.72%
+(('code', 'identifi', 'commun', 'technic'), 42) 5.72%
+(('reports', 'manual', 'document', 'status'), 42) 5.72%
+(('manual', 'document', 'status', 'oper'), 42) 5.72%
+(('document', 'status', 'oper', 'mainten'), 42) 5.72%
+(('status', 'oper', 'mainten', 'softwar'), 41) 5.59%
+(('assist', 'develop', 'logic', 'physic'), 40) 5.45%
+(('problems', 'process', 'solut', 'prepar'), 39) 5.31%
+(('process', 'solut', 'prepar', 'reports'), 39) 5.31%
+(('solut', 'prepar', 'reports', 'manual'), 39) 5.31%
+(('oper', 'mainten', 'softwar', 'assist'), 39) 5.31%
+(('document', 'user', 'requir', 'assist'), 37) 5.04%
+(('user', 'requir', 'assist', 'develop'), 37) 5.04%
+(('requir', 'assist', 'develop', 'logic'), 37) 5.04%
+(('evalu', 'varieti', 'softwar', 'product'), 37) 5.04%
+(('commun', 'client', 'focu', 'judgement'), 36) 4.90%
+(('mainten', 'softwar', 'assist', 'collect'), 36) 4.90%
+(('softwar', 'assist', 'collect', 'document'), 36) 4.90%
+(('dental', 'care', 'extend', 'health'), 33) 4.50%
+(('care', 'extend', 'health', 'care'), 33) 4.50%
+(('logic', 'physic', 'specif', 'evalu'), 32) 4.36%
+(('physic', 'specif', 'evalu', 'varieti'), 32) 4.36%
+(('specif', 'evalu', 'varieti', 'softwar'), 32) 4.36%
+(('make', 'modif', 'requir', 'write'), 31) 4.22%
+(('modif', 'requir', 'write', 'modify'), 31) 4.22%
+(('requir', 'write', 'modify', 'integr'), 31) 4.22%
+(('test', 'softwar', 'code', 'ecommerc'), 31) 4.22%
+(('softwar', 'code', 'ecommerc', 'internet'), 31) 4.22%
+(('code', 'ecommerc', 'internet', 'applic'), 31) 4.22%
+(('fastpac', 'environ', 'pressur', 'attent'), 27) 3.68%
+(('bachelor', 'degre', 'comput', 'science'), 27) 3.68%
+(('attent', 'sit', 'tight', 'deadlin'), 26) 3.54%
+(('8', 'hour', 'shift', 'monday'), 25) 3.41%
+(('hour', 'shift', 'monday', 'friday'), 25) 3.41%
+(('fastpac', 'environ', 'pressur', 'repetit'), 24) 3.27%
+(('environ', 'pressur', 'repetit', 'task'), 24) 3.27%
+(('dental', 'care', 'disabl', 'insur'), 23) 3.13%
+(('care', '8', 'hour', 'shift'), 23) 3.13%
+(('bachelor', 'degre', 'comput', 'scienc'), 23) 3.13%
+(('compani', 'event', 'dental', 'care'), 23) 3.13%
+(('assess', 'troubleshoot', 'document', 'upgrad'), 22) 3.00%
+(('troubleshoot', 'document', 'upgrad', 'develop'), 22) 3.00%
+(('document', 'upgrad', 'develop', 'mainten'), 22) 3.00%
+(('upgrad', 'develop', 'mainten', 'procedur'), 22) 3.00%
+(('develop', 'mainten', 'procedur', 'oper'), 22) 3.00%
+(('mainten', 'procedur', 'oper', 'systems'), 22) 3.00%
+(('procedur', 'oper', 'systems', 'commun'), 22) 3.00%
+(('oper', 'systems', 'commun', 'environ'), 22) 3.00%
+(('systems', 'commun', 'environ', 'applic'), 22) 3.00%
+(('commun', 'environ', 'applic', 'softwar'), 22) 3.00%
+(('strong', 'verbal', 'written', 'commun'), 22) 3.00%
+(('varieti', 'softwar', 'product', 'maintain'), 22) 3.00%
+(('softwar', 'product', 'maintain', 'exist'), 22) 3.00%
+(('product', 'maintain', 'exist', 'comput'), 22) 3.00%
+(('life', 'insur', 'paid', 'time'), 22) 3.00%
+(('vision', 'care', '8', 'hour'), 22) 3.00%
+(('verbal', 'written', 'commun', 'skills'), 22) 3.00%
+(('plan', 'design', 'coordin', 'development'), 21) 2.86%
+(('design', 'coordin', 'development', 'installation'), 21) 2.86%
+(('coordin', 'development', 'installation', 'integr'), 21) 2.86%
+(('development', 'installation', 'integr', 'oper'), 21) 2.86%
+(('installation', 'integr', 'oper', 'computerbas'), 21) 2.86%
+(('integr', 'oper', 'computerbas', 'system'), 21) 2.86%
+(('oper', 'computerbas', 'system', 'assess'), 21) 2.86%
+(('computerbas', 'system', 'assess', 'troubleshoot'), 21) 2.86%
+(('system', 'assess', 'troubleshoot', 'document'), 21) 2.86%
+(('verbal', 'written', 'commun', 'skill'), 21) 2.86%
+(('document', 'user', 'requir', 'develop'), 20) 2.72%
+(('user', 'requir', 'develop', 'logic'), 20) 2.72%
+(('requir', 'develop', 'logic', 'physic'), 20) 2.72%
+(('pressur', 'repetit', 'task', 'attent'), 20) 2.72%
+(('develop', 'data', 'process', 'network'), 19) 2.59%

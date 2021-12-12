@@ -1,50 +1,100 @@
-(('softwar', 'develop'), 366)
-(('commun', 'skill'), 347)
-(('comput', 'scienc'), 270)
-(('degre', 'comput'), 265)
-(('team', 'member'), 263)
-(('game', 'develop'), 235)
-(('comput', 'science'), 206)
-(('bachelor', 'degre'), 188)
-(('une', 'exprienc'), 182)
-(('video', 'game'), 180)
-(('game', 'design'), 180)
-(('skill', 'abil'), 173)
-(('strong', 'knowledg'), 165)
-(('develop', 'team'), 165)
-(('design', 'implement'), 160)
-(('design', 'develop'), 151)
-(('verbal', 'written'), 150)
-(('excel', 'commun'), 144)
-(('softwar', 'engin'), 142)
-(('unreal', 'engin'), 137)
-(('project', 'manag'), 133)
-(('exprienc', 'avec'), 131)
-(('collabor', 'team'), 122)
-(('extend', 'health'), 119)
-(('competit', 'salari'), 119)
-(('written', 'commun'), 116)
-(('work', 'knowledg'), 114)
-(('web', 'applic'), 112)
-(('program', 'languag'), 109)
-(('team', 'player'), 105)
-(('high', 'qualiti'), 104)
-(('code', 'review'), 104)
-(('autom', 'test'), 103)
-(('health', 'dental'), 103)
-(('collabor', 'avec'), 103)
-(('game', 'engin'), 98)
-(('game', 'industri'), 96)
-(('intern', 'extern'), 96)
-(('team', 'members'), 94)
-(('profession', 'develop'), 93)
-(('develop', 'process'), 92)
-(('strong', 'understand'), 92)
-(('problem', 'solv'), 92)
-(('health', 'care'), 87)
-(('web', 'develop'), 83)
-(('written', 'verbal'), 83)
-(('engin', 'team'), 83)
-(('manag', 'team'), 83)
-(('develop', 'maintain'), 82)
-(('travail', 'avec'), 81)
+(('commun', 'skill'), 322) 23.49%
+(('softwar', 'develop'), 271) 19.77%
+(('comput', 'scienc'), 263) 19.18%
+(('degre', 'comput'), 260) 18.96%
+(('team', 'member'), 194) 14.15%
+(('comput', 'science'), 193) 14.08%
+(('game', 'develop'), 191) 13.93%
+(('bachelor', 'degre'), 180) 13.13%
+(('video', 'game'), 159) 11.60%
+(('skill', 'abil'), 156) 11.38%
+(('design', 'implement'), 148) 10.80%
+(('verbal', 'written'), 147) 10.72%
+(('design', 'develop'), 141) 10.28%
+(('excel', 'commun'), 137) 9.99%
+(('develop', 'team'), 133) 9.70%
+(('softwar', 'engin'), 120) 8.75%
+(('competit', 'salari'), 119) 8.68%
+(('extend', 'health'), 118) 8.61%
+(('written', 'commun'), 116) 8.46%
+(('project', 'manag'), 114) 8.32%
+(('strong', 'knowledg'), 113) 8.24%
+(('collabor', 'team'), 112) 8.17%
+(('code', 'review'), 103) 7.51%
+(('team', 'player'), 101) 7.37%
+(('health', 'dental'), 101) 7.37%
+(('program', 'languag'), 100) 7.29%
+(('web', 'applic'), 98) 7.15%
+(('high', 'qualiti'), 97) 7.08%
+(('collabor', 'avec'), 94) 6.86%
+(('problem', 'solv'), 92) 6.71%
+(('game', 'design'), 91) 6.64%
+(('unreal', 'engin'), 91) 6.64%
+(('game', 'industri'), 91) 6.64%
+(('game', 'engin'), 89) 6.49%
+(('profession', 'develop'), 88) 6.42%
+(('health', 'care'), 85) 6.20%
+(('strong', 'understand'), 85) 6.20%
+(('written', 'verbal'), 83) 6.05%
+(('work', 'knowledg'), 81) 5.91%
+(('develop', 'maintain'), 80) 5.84%
+(('develop', 'tool'), 80) 5.84%
+(('team', 'members'), 79) 5.76%
+(('autom', 'test'), 78) 5.69%
+(('manag', 'team'), 78) 5.69%
+(('commun', 'skills'), 77) 5.62%
+(('exprienc', 'avec'), 77) 5.62%
+(('intern', 'extern'), 76) 5.54%
+(('monday', 'friday'), 74) 5.40%
+(('develop', 'process'), 73) 5.32%
+(('interperson', 'skill'), 73) 5.32%
+(('rrsp', 'match'), 71) 5.18%
+(('web', 'develop'), 70) 5.11%
+(('product', 'manag'), 70) 5.11%
+(('engin', 'team'), 69) 5.03%
+(('design', 'team'), 69) 5.03%
+(('casual', 'dress'), 68) 4.96%
+(('flexibl', 'schedul'), 67) 4.89%
+(('product', 'team'), 67) 4.89%
+(('verbal', 'commun'), 66) 4.81%
+(('cv', 'highlight'), 64) 4.67%
+(('une', 'exprienc'), 64) 4.67%
+(('assist', 'program'), 63) 4.60%
+(('deep', 'understand'), 62) 4.52%
+(('proven', 'abil'), 62) 4.52%
+(('unit', 'test'), 61) 4.45%
+(('paid', 'time'), 60) 4.38%
+(('sourc', 'control'), 60) 4.38%
+(('avec', 'de'), 60) 4.38%
+(('an', 'dexprienc'), 60) 4.38%
+(('softwar', 'design'), 59) 4.30%
+(('rest', 'api'), 59) 4.30%
+(('travail', 'avec'), 59) 4.30%
+(('dental', 'care'), 58) 4.23%
+(('dental', 'vision'), 58) 4.23%
+(('excel', 'written'), 57) 4.16%
+(('integr', 'test'), 57) 4.16%
+(('strong', 'commun'), 57) 4.16%
+(('high', 'level'), 57) 4.16%
+(('technic', 'design'), 57) 4.16%
+(('vision', 'care'), 56) 4.08%
+(('paid', 'vacat'), 56) 4.08%
+(('continu', 'integr'), 56) 4.08%
+(('well', 'program'), 54) 3.94%
+(('scienc', 'equival'), 54) 3.94%
+(('develop', 'test'), 54) 3.94%
+(('c', 'c'), 53) 3.87%
+(('good', 'knowledg'), 53) 3.87%
+(('team', 'lead'), 52) 3.79%
+(('mobil', 'game'), 52) 3.79%
+(('relat', 'databas'), 52) 3.79%
+(('c', 'program'), 52) 3.79%
+(('dvelopp', 'de'), 52) 3.79%
+(('particip', 'code'), 51) 3.72%
+(('good', 'understand'), 51) 3.72%
+(('health', 'well'), 51) 3.72%
+(('profici', 'c'), 51) 3.72%
+(('user', 'interfac'), 50) 3.65%
+(('code', 'reviews'), 50) 3.65%
+(('dress', 'code'), 50) 3.65%
+(('team', 'environ'), 49) 3.57%

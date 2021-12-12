@@ -1,50 +1,100 @@
-(('extend', 'health', 'care', 'flexibl', 'schedul'), 30)
-(('8', 'hour', 'shift', 'monday', 'friday'), 24)
-(('dental', 'care', 'extend', 'health', 'care'), 22)
-(('health', 'care', 'flexibl', 'schedul', 'life'), 16)
-(('care', 'flexibl', 'schedul', 'life', 'insur'), 16)
-(('casual', 'dress', 'compani', 'event', 'dental'), 14)
-(('dress', 'compani', 'event', 'dental', 'care'), 14)
-(('care', 'extend', 'health', 'care', 'flexibl'), 13)
-(('vision', 'care', '8', 'hour', 'shift'), 12)
-(('8', 'hour', 'shift', 'day', 'shift'), 11)
-(('flexibl', 'schedul', 'life', 'insur', 'paid'), 11)
-(('schedul', 'life', 'insur', 'paid', 'time'), 11)
-(('bachelor', 'degre', 'comput', 'scienc', 'field'), 10)
-(('competit', 'salary', 'incent', 'pay', 'bank'), 10)
-(('salary', 'incent', 'pay', 'bank', 'benefits'), 10)
-(('incent', 'pay', 'bank', 'benefits', 'health'), 10)
-(('pay', 'bank', 'benefits', 'health', 'benefit'), 10)
-(('bank', 'benefits', 'health', 'benefit', 'program'), 10)
-(('cibc', 'commit', 'creat', 'inclus', 'environ'), 10)
-(('commit', 'creat', 'inclus', 'environ', 'team'), 10)
-(('creat', 'inclus', 'environ', 'team', 'member'), 10)
-(('inclus', 'environ', 'team', 'member', 'client'), 10)
-(('environ', 'team', 'member', 'client', 'feel'), 10)
-(('team', 'member', 'client', 'feel', 'belong'), 10)
-(('seek', 'applic', 'wide', 'rang', 'abil'), 10)
-(('applic', 'wide', 'rang', 'abil', 'provid'), 10)
-(('wide', 'rang', 'abil', 'provid', 'access'), 10)
-(('rang', 'abil', 'provid', 'access', 'candid'), 10)
-(('abil', 'provid', 'access', 'candid', 'experience'), 10)
-(('accommodation', 'contact', 'mailboxcareerscarrierescibccom', 'legal', 'elig'), 10)
-(('contact', 'mailboxcareerscarrierescibccom', 'legal', 'elig', 'locations'), 10)
-(('mailboxcareerscarrierescibccom', 'legal', 'elig', 'locations', 'and'), 10)
-(('legal', 'elig', 'locations', 'and', 'applicable'), 10)
-(('elig', 'locations', 'and', 'applicable', 'valid'), 10)
-(('locations', 'and', 'applicable', 'valid', 'studi'), 10)
-(('and', 'applicable', 'valid', 'studi', 'permit'), 10)
-(('php', 'javascript', 'html', 'css', 'xml'), 10)
-(('javascript', 'html', 'css', 'xml', 'web'), 10)
-(('html', 'css', 'xml', 'web', 'content'), 10)
-(('css', 'xml', 'web', 'content', 'manag'), 10)
-(('xml', 'web', 'content', 'manag', 'system'), 10)
-(('web', 'content', 'manag', 'system', 'wordpress'), 10)
-(('content', 'manag', 'system', 'wordpress', 'web'), 10)
-(('manag', 'system', 'wordpress', 'web', 'host'), 10)
-(('system', 'wordpress', 'web', 'host', 'wp'), 10)
-(('wordpress', 'web', 'host', 'wp', 'engin'), 10)
-(('web', 'host', 'wp', 'engin', 'seo'), 10)
-(('host', 'wp', 'engin', 'seo', 'deep'), 10)
-(('wp', 'engin', 'seo', 'deep', 'understand'), 10)
-(('engin', 'seo', 'deep', 'understand', 'current'), 10)
+(('extend', 'health', 'care', 'flexibl', 'schedul'), 30) 3.80%
+(('8', 'hour', 'shift', 'monday', 'friday'), 24) 3.04%
+(('dental', 'care', 'extend', 'health', 'care'), 22) 2.78%
+(('health', 'care', 'flexibl', 'schedul', 'life'), 16) 2.03%
+(('care', 'flexibl', 'schedul', 'life', 'insur'), 16) 2.03%
+(('casual', 'dress', 'compani', 'event', 'dental'), 14) 1.77%
+(('dress', 'compani', 'event', 'dental', 'care'), 14) 1.77%
+(('care', 'extend', 'health', 'care', 'flexibl'), 13) 1.65%
+(('vision', 'care', '8', 'hour', 'shift'), 12) 1.52%
+(('8', 'hour', 'shift', 'day', 'shift'), 11) 1.39%
+(('flexibl', 'schedul', 'life', 'insur', 'paid'), 11) 1.39%
+(('schedul', 'life', 'insur', 'paid', 'time'), 11) 1.39%
+(('bachelor', 'degre', 'comput', 'scienc', 'field'), 10) 1.27%
+(('competit', 'salary', 'incent', 'pay', 'bank'), 10) 1.27%
+(('salary', 'incent', 'pay', 'bank', 'benefits'), 10) 1.27%
+(('incent', 'pay', 'bank', 'benefits', 'health'), 10) 1.27%
+(('pay', 'bank', 'benefits', 'health', 'benefit'), 10) 1.27%
+(('bank', 'benefits', 'health', 'benefit', 'program'), 10) 1.27%
+(('cibc', 'commit', 'creat', 'inclus', 'environ'), 10) 1.27%
+(('commit', 'creat', 'inclus', 'environ', 'team'), 10) 1.27%
+(('creat', 'inclus', 'environ', 'team', 'member'), 10) 1.27%
+(('inclus', 'environ', 'team', 'member', 'client'), 10) 1.27%
+(('environ', 'team', 'member', 'client', 'feel'), 10) 1.27%
+(('team', 'member', 'client', 'feel', 'belong'), 10) 1.27%
+(('seek', 'applic', 'wide', 'rang', 'abil'), 10) 1.27%
+(('applic', 'wide', 'rang', 'abil', 'provid'), 10) 1.27%
+(('wide', 'rang', 'abil', 'provid', 'access'), 10) 1.27%
+(('rang', 'abil', 'provid', 'access', 'candid'), 10) 1.27%
+(('abil', 'provid', 'access', 'candid', 'experience'), 10) 1.27%
+(('accommodation', 'contact', 'mailboxcareerscarrierescibccom', 'legal', 'elig'), 10) 1.27%
+(('contact', 'mailboxcareerscarrierescibccom', 'legal', 'elig', 'locations'), 10) 1.27%
+(('mailboxcareerscarrierescibccom', 'legal', 'elig', 'locations', 'and'), 10) 1.27%
+(('legal', 'elig', 'locations', 'and', 'applicable'), 10) 1.27%
+(('elig', 'locations', 'and', 'applicable', 'valid'), 10) 1.27%
+(('locations', 'and', 'applicable', 'valid', 'studi'), 10) 1.27%
+(('and', 'applicable', 'valid', 'studi', 'permit'), 10) 1.27%
+(('degre', 'comput', 'science', 'comput', 'engin'), 9) 1.14%
+(('casual', 'dress', 'dental', 'care', 'extend'), 9) 1.14%
+(('dress', 'dental', 'care', 'extend', 'health'), 9) 1.14%
+(('extend', 'health', 'care', 'paid', 'time'), 9) 1.14%
+(('lead', 'design', 'develop', 'costeffect', 'innov'), 9) 1.14%
+(('seek', 'innov', 'solut', 'embrac', 'evolv'), 9) 1.14%
+(('innov', 'solut', 'embrac', 'evolv', 'technologies'), 9) 1.14%
+(('bring', 'real', 'live', 'valu', 'trust'), 9) 1.14%
+(('real', 'live', 'valu', 'trust', 'teamwork'), 9) 1.14%
+(('explain', 'complex', 'technic', 'concept', 'designers'), 9) 1.14%
+(('well', 'program', '8', 'hour', 'shift'), 8) 1.01%
+(('develop', 'inhouse', 'customerfac', 'applic', 'act'), 8) 1.01%
+(('inhouse', 'customerfac', 'applic', 'act', 'mentor'), 8) 1.01%
+(('customerfac', 'applic', 'act', 'mentor', 'junior'), 8) 1.01%
+(('applic', 'act', 'mentor', 'junior', 'develop'), 8) 1.01%
+(('act', 'mentor', 'junior', 'develop', 'backend'), 8) 1.01%
+(('mentor', 'junior', 'develop', 'backend', 'phppython'), 8) 1.01%
+(('assist', 'develop', 'javascript', '3rd', 'parti'), 8) 1.01%
+(('develop', 'javascript', '3rd', 'parti', 'integrations'), 8) 1.01%
+(('javascript', '3rd', 'parti', 'integrations', 'system'), 8) 1.01%
+(('3rd', 'parti', 'integrations', 'system', 'financialauto'), 8) 1.01%
+(('parti', 'integrations', 'system', 'financialauto', 'industri'), 8) 1.01%
+(('integrations', 'system', 'financialauto', 'industri', 'tech'), 8) 1.01%
+(('system', 'financialauto', 'industri', 'tech', 'stack'), 8) 1.01%
+(('financialauto', 'industri', 'tech', 'stack', 'phplaravel'), 8) 1.01%
+(('industri', 'tech', 'stack', 'phplaravel', 'backend'), 8) 1.01%
+(('tech', 'stack', 'phplaravel', 'backend', 'vuenuxt'), 8) 1.01%
+(('stack', 'phplaravel', 'backend', 'vuenuxt', 'frontend'), 8) 1.01%
+(('phplaravel', 'backend', 'vuenuxt', 'frontend', 'newer'), 8) 1.01%
+(('backend', 'vuenuxt', 'frontend', 'newer', 'servic'), 8) 1.01%
+(('vuenuxt', 'frontend', 'newer', 'servic', 'built'), 8) 1.01%
+(('frontend', 'newer', 'servic', 'built', 'serverless'), 8) 1.01%
+(('newer', 'servic', 'built', 'serverless', 'nodepython'), 8) 1.01%
+(('servic', 'built', 'serverless', 'nodepython', 'runtimes'), 8) 1.01%
+(('built', 'serverless', 'nodepython', 'runtimes', 'aw'), 8) 1.01%
+(('serverless', 'nodepython', 'runtimes', 'aw', 'ensur'), 8) 1.01%
+(('nodepython', 'runtimes', 'aw', 'ensur', 'crossbrowser'), 8) 1.01%
+(('runtimes', 'aw', 'ensur', 'crossbrowser', 'crossplatform'), 8) 1.01%
+(('aw', 'ensur', 'crossbrowser', 'crossplatform', 'andor'), 8) 1.01%
+(('ensur', 'crossbrowser', 'crossplatform', 'andor', 'crossdevic'), 8) 1.01%
+(('crossbrowser', 'crossplatform', 'andor', 'crossdevic', 'compat'), 8) 1.01%
+(('crossplatform', 'andor', 'crossdevic', 'compat', 'inconsist'), 8) 1.01%
+(('bonus', 'aw', 'knowledge', 'serverless', 'stack'), 8) 1.01%
+(('aw', 'knowledge', 'serverless', 'stack', 'sam'), 8) 1.01%
+(('knowledge', 'serverless', 'stack', 'sam', 'serverless'), 8) 1.01%
+(('serverless', 'stack', 'sam', 'serverless', 'bonus'), 8) 1.01%
+(('stack', 'sam', 'serverless', 'bonus', 'nosql'), 8) 1.01%
+(('sam', 'serverless', 'bonus', 'nosql', 'dynamodb'), 8) 1.01%
+(('serverless', 'bonus', 'nosql', 'dynamodb', 'mongodb'), 8) 1.01%
+(('bonus', 'nosql', 'dynamodb', 'mongodb', 'cassandra'), 8) 1.01%
+(('nosql', 'dynamodb', 'mongodb', 'cassandra', 'bonus'), 8) 1.01%
+(('dynamodb', 'mongodb', 'cassandra', 'bonus', 'ecommerc'), 8) 1.01%
+(('mongodb', 'cassandra', 'bonus', 'ecommerc', 'shopify'), 8) 1.01%
+(('cassandra', 'bonus', 'ecommerc', 'shopify', 'payment'), 8) 1.01%
+(('bonus', 'ecommerc', 'shopify', 'payment', 'gateway'), 8) 1.01%
+(('ecommerc', 'shopify', 'payment', 'gateway', 'integr'), 8) 1.01%
+(('shopify', 'payment', 'gateway', 'integr', 'bonus'), 8) 1.01%
+(('payment', 'gateway', 'integr', 'bonus', 'respons'), 8) 1.01%
+(('gateway', 'integr', 'bonus', 'respons', 'layout'), 8) 1.01%
+(('integr', 'bonus', 'respons', 'layout', 'problem'), 8) 1.01%
+(('bonus', 'respons', 'layout', 'problem', 'grid'), 8) 1.01%
+(('respons', 'layout', 'problem', 'grid', 'framework'), 8) 1.01%
+(('layout', 'problem', 'grid', 'framework', 'bonus'), 8) 1.01%
+(('problem', 'grid', 'framework', 'bonus', 'css3'), 8) 1.01%

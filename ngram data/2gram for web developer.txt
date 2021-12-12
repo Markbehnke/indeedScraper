@@ -1,50 +1,100 @@
-(('web', 'applic'), 523)
-(('softwar', 'develop'), 479)
-(('web', 'develop'), 319)
-(('team', 'member'), 263)
-(('commun', 'skill'), 261)
-(('comput', 'scienc'), 249)
-(('html', 'css'), 247)
-(('degre', 'comput'), 232)
-(('monday', 'friday'), 220)
-(('bachelor', 'degre'), 213)
-(('design', 'develop'), 209)
-(('rest', 'api'), 206)
-(('comput', 'science'), 206)
-(('sql', 'server'), 142)
-(('html5', 'css3'), 137)
-(('applic', 'develop'), 137)
-(('unit', 'test'), 134)
-(('web', 'servic'), 128)
-(('team', 'player'), 127)
-(('hour', 'shift'), 127)
-(('strong', 'understand'), 127)
-(('integr', 'test'), 127)
-(('8', 'hour'), 126)
-(('extend', 'health'), 125)
-(('collabor', 'team'), 121)
-(('health', 'care'), 120)
-(('dental', 'care'), 118)
-(('paid', 'time'), 118)
-(('develop', 'websit'), 115)
-(('written', 'commun'), 115)
-(('code', 'review'), 113)
-(('work', 'knowledg'), 113)
-(('develop', 'team'), 112)
-(('frontend', 'develop'), 111)
-(('design', 'implement'), 111)
-(('commun', 'skills'), 110)
-(('version', 'control'), 110)
-(('web', 'design'), 110)
-(('skill', 'abil'), 110)
-(('strong', 'knowledg'), 108)
-(('project', 'manag'), 108)
-(('autom', 'test'), 104)
-(('problem', 'solv'), 102)
-(('relat', 'databas'), 101)
-(('flexibl', 'schedul'), 98)
-(('respons', 'design'), 98)
-(('vision', 'care'), 97)
-(('user', 'interfac'), 97)
-(('verbal', 'written'), 94)
-(('team', 'develop'), 91)
+(('web', 'applic'), 397) 29.26%
+(('softwar', 'develop'), 352) 25.94%
+(('web', 'develop'), 275) 20.27%
+(('commun', 'skill'), 254) 18.72%
+(('comput', 'scienc'), 238) 17.54%
+(('degre', 'comput'), 232) 17.10%
+(('html', 'css'), 226) 16.65%
+(('monday', 'friday'), 220) 16.21%
+(('team', 'member'), 212) 15.62%
+(('bachelor', 'degre'), 207) 15.25%
+(('comput', 'science'), 203) 14.96%
+(('rest', 'api'), 196) 14.44%
+(('design', 'develop'), 177) 13.04%
+(('8', 'hour'), 126) 9.29%
+(('html5', 'css3'), 126) 9.29%
+(('team', 'player'), 125) 9.21%
+(('hour', 'shift'), 125) 9.21%
+(('extend', 'health'), 123) 9.06%
+(('dental', 'care'), 118) 8.70%
+(('health', 'care'), 118) 8.70%
+(('integr', 'test'), 118) 8.70%
+(('collabor', 'team'), 117) 8.62%
+(('unit', 'test'), 116) 8.55%
+(('applic', 'develop'), 115) 8.47%
+(('written', 'commun'), 115) 8.47%
+(('commun', 'skills'), 110) 8.11%
+(('sql', 'server'), 110) 8.11%
+(('paid', 'time'), 108) 7.96%
+(('web', 'servic'), 106) 7.81%
+(('develop', 'team'), 104) 7.66%
+(('code', 'review'), 103) 7.59%
+(('version', 'control'), 102) 7.52%
+(('strong', 'understand'), 101) 7.44%
+(('skill', 'abil'), 100) 7.37%
+(('vision', 'care'), 96) 7.07%
+(('flexibl', 'schedul'), 95) 7.00%
+(('relat', 'databas'), 95) 7.00%
+(('design', 'implement'), 95) 7.00%
+(('problem', 'solv'), 93) 6.85%
+(('verbal', 'written'), 93) 6.85%
+(('project', 'manag'), 91) 6.71%
+(('autom', 'test'), 90) 6.63%
+(('frontend', 'develop'), 89) 6.56%
+(('team', 'develop'), 89) 6.56%
+(('web', 'design'), 89) 6.56%
+(('excel', 'commun'), 88) 6.48%
+(('interperson', 'skill'), 87) 6.41%
+(('css', 'javascript'), 84) 6.19%
+(('casual', 'dress'), 83) 6.12%
+(('respons', 'design'), 82) 6.04%
+(('write', 'modify'), 81) 5.97%
+(('modify', 'integr'), 81) 5.97%
+(('user', 'interfac'), 81) 5.97%
+(('agil', 'develop'), 80) 5.90%
+(('strong', 'knowledg'), 80) 5.90%
+(('javascript', 'framework'), 80) 5.90%
+(('program', 'languag'), 79) 5.82%
+(('life', 'insur'), 79) 5.82%
+(('temporarili', 'covid19'), 79) 5.82%
+(('softwar', 'engin'), 78) 5.75%
+(('work', 'knowledg'), 78) 5.75%
+(('written', 'verbal'), 76) 5.60%
+(('team', 'environ'), 76) 5.60%
+(('design', 'write'), 74) 5.45%
+(('design', 'pattern'), 74) 5.45%
+(('continu', 'improv'), 74) 5.45%
+(('univers', 'degre'), 72) 5.31%
+(('high', 'qualiti'), 72) 5.31%
+(('life', 'cycl'), 71) 5.23%
+(('solid', 'understand'), 71) 5.23%
+(('develop', 'websit'), 70) 5.16%
+(('develop', 'web'), 70) 5.16%
+(('develop', 'document'), 68) 5.01%
+(('appearance', 'layout'), 68) 5.01%
+(('layout', 'flow'), 68) 5.01%
+(('hardwar', 'softwar'), 68) 5.01%
+(('softwar', 'requir'), 68) 5.01%
+(('test', 'framework'), 68) 5.01%
+(('web', 'applications'), 68) 5.01%
+(('plan', 'design'), 67) 4.94%
+(('fastpac', 'environ'), 67) 4.94%
+(('understand', 'web'), 67) 4.94%
+(('source', 'select'), 66) 4.86%
+(('select', 'organ'), 66) 4.86%
+(('organ', 'inclus'), 66) 4.86%
+(('inclus', 'design'), 66) 4.86%
+(('design', 'appearance'), 66) 4.86%
+(('websit', 'architectur'), 66) 4.86%
+(('determin', 'hardwar'), 66) 4.86%
+(('optim', 'content'), 66) 4.86%
+(('test', 'websit'), 66) 4.86%
+(('test', 'perform'), 66) 4.86%
+(('develop', 'maintain'), 66) 4.86%
+(('architectur', 'determin'), 65) 4.79%
+(('strong', 'commun'), 65) 4.79%
+(('graphics', 'database'), 64) 4.72%
+(('database', 'anim'), 64) 4.72%
+(('websit', 'code'), 64) 4.72%
+(('shift', 'monday'), 63) 4.64%
+(('react', 'angular'), 63) 4.64%

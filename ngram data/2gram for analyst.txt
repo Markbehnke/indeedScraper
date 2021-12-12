@@ -1,50 +1,100 @@
-(('softwar', 'develop'), 231)
-(('comput', 'scienc'), 133)
-(('written', 'commun'), 125)
-(('team', 'player'), 122)
-(('bachelor', 'degre'), 120)
-(('comput', 'science'), 118)
-(('commun', 'skill'), 114)
-(('design', 'develop'), 113)
-(('degre', 'comput'), 101)
-(('interperson', 'skill'), 93)
-(('monday', 'friday'), 93)
-(('team', 'member'), 92)
-(('integr', 'test'), 88)
-(('autom', 'test'), 87)
-(('test', 'softwar'), 85)
-(('softwar', 'code'), 83)
-(('softwar', 'engin'), 81)
-(('machin', 'learn'), 81)
-(('fastpac', 'environ'), 79)
-(('excel', 'written'), 78)
-(('tight', 'deadlin'), 76)
-(('write', 'modify'), 75)
-(('modify', 'integr'), 75)
-(('verbal', 'written'), 74)
-(('problem', 'solv'), 74)
-(('oral', 'commun'), 73)
-(('excel', 'oral'), 71)
-(('user', 'requir'), 71)
-(('design', 'implement'), 71)
-(('program', 'languag'), 67)
-(('document', 'user'), 67)
-(('8', 'hour'), 67)
-(('hour', 'shift'), 67)
-(('maintain', 'exist'), 67)
-(('paid', 'time'), 67)
-(('skill', 'abil'), 67)
-(('work', 'knowledg'), 66)
-(('commun', 'skills'), 65)
-(('vision', 'care'), 65)
-(('collect', 'document'), 64)
-(('life', 'insur'), 64)
-(('dental', 'care'), 64)
-(('player', 'excel'), 63)
-(('test', 'case'), 63)
-(('softwar', 'product'), 62)
-(('extend', 'health'), 62)
-(('develop', 'team'), 62)
-(('effect', 'interperson'), 61)
-(('client', 'focu'), 61)
-(('commun', 'excel'), 60)
+(('softwar', 'develop'), 185) 25.20%
+(('written', 'commun'), 125) 17.03%
+(('comput', 'scienc'), 124) 16.89%
+(('team', 'player'), 122) 16.62%
+(('bachelor', 'degre'), 116) 15.80%
+(('comput', 'science'), 114) 15.53%
+(('commun', 'skill'), 112) 15.26%
+(('degre', 'comput'), 100) 13.62%
+(('design', 'develop'), 98) 13.35%
+(('interperson', 'skill'), 92) 12.53%
+(('monday', 'friday'), 92) 12.53%
+(('fastpac', 'environ'), 79) 10.76%
+(('excel', 'written'), 78) 10.63%
+(('tight', 'deadlin'), 76) 10.35%
+(('verbal', 'written'), 74) 10.08%
+(('oral', 'commun'), 73) 9.95%
+(('excel', 'oral'), 71) 9.67%
+(('problem', 'solv'), 70) 9.54%
+(('team', 'member'), 69) 9.40%
+(('user', 'requir'), 68) 9.26%
+(('document', 'user'), 67) 9.13%
+(('8', 'hour'), 67) 9.13%
+(('hour', 'shift'), 67) 9.13%
+(('commun', 'skills'), 65) 8.86%
+(('paid', 'time'), 65) 8.86%
+(('vision', 'care'), 65) 8.86%
+(('collect', 'document'), 64) 8.72%
+(('softwar', 'engin'), 64) 8.72%
+(('dental', 'care'), 64) 8.72%
+(('program', 'languag'), 63) 8.58%
+(('player', 'excel'), 63) 8.58%
+(('life', 'insur'), 63) 8.58%
+(('maintain', 'exist'), 63) 8.58%
+(('extend', 'health'), 62) 8.45%
+(('skill', 'abil'), 62) 8.45%
+(('effect', 'interperson'), 61) 8.31%
+(('client', 'focu'), 61) 8.31%
+(('softwar', 'product'), 61) 8.31%
+(('commun', 'excel'), 60) 8.17%
+(('develop', 'logic'), 60) 8.17%
+(('logic', 'physic'), 60) 8.17%
+(('physic', 'specif'), 60) 8.17%
+(('health', 'care'), 60) 8.17%
+(('integr', 'test'), 57) 7.77%
+(('autom', 'test'), 57) 7.77%
+(('develop', 'team'), 57) 7.77%
+(('develop', 'test'), 54) 7.36%
+(('test', 'softwar'), 54) 7.36%
+(('work', 'knowledg'), 54) 7.36%
+(('accur', 'team'), 53) 7.22%
+(('design', 'implement'), 53) 7.22%
+(('manual', 'document'), 53) 7.22%
+(('flexibl', 'schedul'), 52) 7.08%
+(('commun', 'client'), 52) 7.08%
+(('softwar', 'code'), 52) 7.08%
+(('commun', 'technic'), 52) 7.08%
+(('environ', 'pressur'), 51) 6.95%
+(('code', 'review'), 50) 6.81%
+(('judgement', 'organ'), 49) 6.68%
+(('prepar', 'reports'), 48) 6.54%
+(('initi', 'effect'), 47) 6.40%
+(('technic', 'problems'), 47) 6.40%
+(('reports', 'manual'), 46) 6.27%
+(('oper', 'mainten'), 46) 6.27%
+(('comput', 'program'), 46) 6.27%
+(('identifi', 'commun'), 45) 6.13%
+(('assist', 'collect'), 45) 6.13%
+(('assist', 'develop'), 45) 6.13%
+(('make', 'modif'), 45) 6.13%
+(('develop', 'softwar'), 45) 6.13%
+(('abil', 'learn'), 44) 5.99%
+(('skill', 'accur'), 44) 5.99%
+(('write', 'modify'), 44) 5.99%
+(('modify', 'integr'), 44) 5.99%
+(('problems', 'process'), 44) 5.99%
+(('process', 'solut'), 44) 5.99%
+(('exist', 'comput'), 44) 5.99%
+(('program', 'make'), 44) 5.99%
+(('modif', 'requir'), 44) 5.99%
+(('focu', 'judgement'), 43) 5.86%
+(('written', 'verbal'), 43) 5.86%
+(('casual', 'dress'), 43) 5.86%
+(('profession', 'develop'), 43) 5.86%
+(('code', 'identifi'), 42) 5.72%
+(('document', 'status'), 42) 5.72%
+(('status', 'oper'), 42) 5.72%
+(('mainten', 'softwar'), 42) 5.72%
+(('varieti', 'softwar'), 42) 5.72%
+(('machin', 'learn'), 42) 5.72%
+(('test', 'case'), 42) 5.72%
+(('applic', 'softwar'), 40) 5.45%
+(('softwar', 'assist'), 40) 5.45%
+(('technic', 'design'), 39) 5.31%
+(('solut', 'prepar'), 39) 5.31%
+(('requir', 'assist'), 39) 5.31%
+(('evalu', 'varieti'), 39) 5.31%
+(('abil', 'independ'), 39) 5.31%
+(('test', 'plan'), 38) 5.18%
+(('c', 'c'), 38) 5.18%
+(('collabor', 'team'), 38) 5.18%

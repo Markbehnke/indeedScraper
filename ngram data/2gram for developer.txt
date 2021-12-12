@@ -1,50 +1,100 @@
-(('softwar', 'develop'), 270)
-(('comput', 'scienc'), 188)
-(('design', 'develop'), 139)
-(('monday', 'friday'), 136)
-(('team', 'member'), 134)
-(('bachelor', 'degre'), 129)
-(('commun', 'skill'), 126)
-(('degre', 'comput'), 125)
-(('web', 'applic'), 121)
-(('html', 'css'), 115)
-(('hour', 'shift'), 114)
-(('8', 'hour'), 108)
-(('extend', 'health'), 99)
-(('team', 'player'), 99)
-(('health', 'care'), 97)
-(('comput', 'science'), 95)
-(('integr', 'test'), 95)
-(('web', 'develop'), 91)
-(('dental', 'care'), 89)
-(('vision', 'care'), 87)
-(('paid', 'time'), 84)
-(('written', 'commun'), 82)
-(('flexibl', 'schedul'), 79)
-(('write', 'modify'), 79)
-(('modify', 'integr'), 79)
-(('sql', 'server'), 76)
-(('work', 'knowledg'), 75)
-(('program', 'languag'), 74)
-(('develop', 'team'), 73)
-(('rest', 'api'), 73)
-(('code', 'review'), 72)
-(('unit', 'test'), 68)
-(('casual', 'dress'), 67)
-(('design', 'implement'), 64)
-(('interperson', 'skill'), 63)
-(('life', 'insur'), 62)
-(('test', 'softwar'), 61)
-(('excel', 'written'), 61)
-(('autom', 'test'), 59)
-(('develop', 'websit'), 59)
-(('javascript', 'html'), 57)
-(('web', 'servic'), 57)
-(('1', 'preferred'), 57)
-(('softwar', 'code'), 56)
-(('softwar', 'engin'), 56)
-(('strong', 'knowledg'), 55)
-(('shift', 'monday'), 55)
-(('applic', 'develop'), 53)
-(('collabor', 'team'), 51)
-(('care', 'extend'), 51)
+(('softwar', 'develop'), 214) 26.99%
+(('comput', 'scienc'), 176) 22.19%
+(('monday', 'friday'), 136) 17.15%
+(('bachelor', 'degre'), 125) 15.76%
+(('degre', 'comput'), 122) 15.38%
+(('commun', 'skill'), 121) 15.26%
+(('design', 'develop'), 116) 14.63%
+(('team', 'member'), 108) 13.62%
+(('8', 'hour'), 107) 13.49%
+(('hour', 'shift'), 107) 13.49%
+(('web', 'applic'), 99) 12.48%
+(('extend', 'health'), 99) 12.48%
+(('team', 'player'), 99) 12.48%
+(('html', 'css'), 97) 12.23%
+(('health', 'care'), 95) 11.98%
+(('comput', 'science'), 94) 11.85%
+(('dental', 'care'), 89) 11.22%
+(('vision', 'care'), 87) 10.97%
+(('paid', 'time'), 84) 10.59%
+(('written', 'commun'), 81) 10.21%
+(('web', 'develop'), 76) 9.58%
+(('flexibl', 'schedul'), 76) 9.58%
+(('integr', 'test'), 72) 9.08%
+(('rest', 'api'), 70) 8.83%
+(('code', 'review'), 68) 8.58%
+(('program', 'languag'), 67) 8.45%
+(('casual', 'dress'), 65) 8.20%
+(('develop', 'team'), 64) 8.07%
+(('interperson', 'skill'), 63) 7.94%
+(('life', 'insur'), 62) 7.82%
+(('sql', 'server'), 61) 7.69%
+(('excel', 'written'), 61) 7.69%
+(('unit', 'test'), 59) 7.44%
+(('work', 'knowledg'), 59) 7.44%
+(('write', 'modify'), 58) 7.31%
+(('modify', 'integr'), 58) 7.31%
+(('autom', 'test'), 57) 7.19%
+(('shift', 'monday'), 55) 6.94%
+(('design', 'implement'), 55) 6.94%
+(('softwar', 'engin'), 52) 6.56%
+(('javascript', 'html'), 51) 6.43%
+(('web', 'servic'), 51) 6.43%
+(('care', 'extend'), 51) 6.43%
+(('problem', 'solv'), 50) 6.31%
+(('applic', 'develop'), 48) 6.05%
+(('commun', 'skills'), 48) 6.05%
+(('excel', 'commun'), 48) 6.05%
+(('relat', 'databas'), 47) 5.93%
+(('fastpac', 'environ'), 47) 5.93%
+(('team', 'develop'), 46) 5.80%
+(('oral', 'commun'), 46) 5.80%
+(('collabor', 'team'), 45) 5.67%
+(('softwar', 'product'), 45) 5.67%
+(('compani', 'event'), 45) 5.67%
+(('skill', 'abil'), 44) 5.55%
+(('version', 'control'), 44) 5.55%
+(('care', 'flexibl'), 44) 5.55%
+(('written', 'verbal'), 44) 5.55%
+(('effect', 'interperson'), 43) 5.42%
+(('player', 'excel'), 43) 5.42%
+(('javascript', 'framework'), 42) 5.30%
+(('excel', 'oral'), 42) 5.30%
+(('strong', 'understand'), 41) 5.17%
+(('verbal', 'written'), 40) 5.04%
+(('html5', 'css3'), 40) 5.04%
+(('temporarili', 'covid19'), 40) 5.04%
+(('test', 'softwar'), 40) 5.04%
+(('evalu', 'varieti'), 40) 5.04%
+(('project', 'manag'), 40) 5.04%
+(('css', 'javascript'), 39) 4.92%
+(('plan', 'design'), 39) 4.92%
+(('high', 'qualiti'), 38) 4.79%
+(('maintain', 'exist'), 38) 4.79%
+(('care', '8'), 38) 4.79%
+(('client', 'focu'), 38) 4.79%
+(('develop', 'softwar'), 38) 4.79%
+(('tight', 'deadlin'), 37) 4.67%
+(('initi', 'effect'), 37) 4.67%
+(('time', 'vision'), 37) 4.67%
+(('strong', 'knowledg'), 36) 4.54%
+(('softwar', 'code'), 36) 4.54%
+(('day', 'shift'), 36) 4.54%
+(('design', 'write'), 36) 4.54%
+(('scienc', 'field'), 35) 4.41%
+(('softwar', 'requir'), 35) 4.41%
+(('develop', 'tool'), 35) 4.41%
+(('develop', 'websit'), 35) 4.41%
+(('anim', 'softwar'), 35) 4.41%
+(('commun', 'excel'), 35) 4.41%
+(('develop', 'maintain'), 35) 4.41%
+(('bonu', 'pay'), 34) 4.29%
+(('user', 'requir'), 33) 4.16%
+(('flexibl', 'work'), 33) 4.16%
+(('agil', 'develop'), 33) 4.16%
+(('develop', 'document'), 33) 4.16%
+(('websit', 'creat'), 33) 4.16%
+(('competit', 'salari'), 33) 4.16%
+(('good', 'understand'), 32) 4.04%
+(('assist', 'program'), 32) 4.04%
+(('disabl', 'insur'), 32) 4.04%
