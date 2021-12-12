@@ -39,6 +39,15 @@ For our purposes, we used VScode to create the scraper. These instructions will 
   
 </ul>
 
+ <h2>File Structure</h2>
+ <ul>
+  <li>logs folder contains all the raw, scraped job searches from Indeed.ca</li>
+  <li>node_modules folder contains all the stopwords from the english NLTK library</li>
+  <li>processedLogs folder contains all the text files that are stemmed and stopwords removed</li>
+  <li>languageCounter.py is the stemming and data processing algorithm. See above for more info</li>
+  <li>main.py is the scraping file. See above for more info.
+ </ul>
+  
   
 <h2>Project Status</h2>
 Jobs scraped: Estimated ~21,202
