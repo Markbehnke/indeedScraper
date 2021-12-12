@@ -10,27 +10,30 @@ gramCounter = 0
 for i in range(len(allFiles)):
     with open(f"./processedLogs/{allFiles[i]}", 'r', encoding='utf-8') as file:
         data = file.read()
+        lines = data.splitlines()
         data = tokenize.sent_tokenize(data)
-
+        lastLine = lines[-1]
+        entryCount = int(lastLine)
         for n in range(1, 7):
+            dupeArray = []
             for y in range(len(data)):
-
+                
                 data[y] = re.sub(r'[^A-Za-z0-9 ]+', '', data[y])
                 ngram = ngrams(data[y].split(), n)
 
                 for gram in ngram:
                     if gram in gramDict:
-                        gramDict[gram] += 1
+                        gramDict[gram]+=1
                     else:
-                        gramDict[gram] = 1
-            gramDict = sorted(gramDict.items(),
-                              key=lambda x: x[1], reverse=True)
+                        gramDict[gram]=1
+            gramDict = sorted(gramDict.items(), key=lambda x: x[1], reverse=True)
             with open(f"./ngram data/{n}gram for {allFiles[i]}", "w", encoding='utf-8') as writeFile:
                 for gram in gramDict:
-                    if gramCounter < 50:
+                    if gramCounter < 100:
                         writeFile.write(str(gram))
+                        writeFile.write(" " + str("{:.2f}".format(gram[1]/entryCount*100)) + "%")
                         writeFile.write('\n')
-                        gramCounter += 1
+                        gramCounter+=1       
 
             gramDict = dict()
             gramCounter = 0
