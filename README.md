@@ -23,7 +23,8 @@ pip install requests
 pip install scikit-learn-extra
 ```
 
-
+<h2>Report and Presentation</h2>
+Both the report and video presentation can be found in "COSC 329 - Job Scraper.pdf"
 
 
 <h2>How To Run The Job Scraper</h2>
