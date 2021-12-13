@@ -1,6 +1,5 @@
 (('dental', 'care', 'extend', 'health', 'care'), 51) 6.43%
 (('extend', 'health', 'care', 'flexibl', 'schedul'), 43) 5.42%
-(('vision', 'care', '8', 'hour', 'shift'), 37) 4.67%
 (('team', 'player', 'excel', 'oral', 'commun'), 37) 4.67%
 (('player', 'excel', 'oral', 'commun', 'excel'), 35) 4.41%
 (('excel', 'oral', 'commun', 'excel', 'written'), 35) 4.41%
@@ -41,6 +40,9 @@
 (('requir', 'plan', 'design', 'write', 'modify'), 28) 3.53%
 (('health', 'care', 'flexibl', 'schedul', 'life'), 27) 3.40%
 (('care', 'flexibl', 'schedul', 'life', 'insur'), 27) 3.40%
+(('vision', 'care', 'work', '8', 'hour'), 27) 3.40%
+(('care', 'work', '8', 'hour', 'shift'), 27) 3.40%
+(('paid', 'time', 'vision', 'care', 'work'), 27) 3.40%
 (('integr', 'test', 'softwar', 'code', 'identifi'), 26) 3.28%
 (('test', 'softwar', 'code', 'identifi', 'commun'), 26) 3.28%
 (('softwar', 'code', 'identifi', 'commun', 'technic'), 26) 3.28%
@@ -96,5 +98,3 @@
 (('life', 'insur', 'paid', 'time', 'vision'), 20) 2.52%
 (('insur', 'paid', 'time', 'vision', 'care'), 20) 2.52%
 (('develop', 'document', 'websit', 'requir', 'lead'), 20) 2.52%
-(('document', 'websit', 'requir', 'lead', 'coordin'), 20) 2.52%
-(('websit', 'requir', 'lead', 'coordin', 'multidisciplinari'), 20) 2.52%

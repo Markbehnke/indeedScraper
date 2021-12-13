@@ -1,10 +1,9 @@
 (('write', 'modify', 'integr', 'test'), 58) 7.31%
 (('dental', 'care', 'extend', 'health'), 51) 6.43%
 (('care', 'extend', 'health', 'care'), 51) 6.43%
+(('work', '8', 'hour', 'shift'), 45) 5.67%
 (('extend', 'health', 'care', 'flexibl'), 43) 5.42%
 (('health', 'care', 'flexibl', 'schedul'), 43) 5.42%
-(('care', '8', 'hour', 'shift'), 38) 4.79%
-(('vision', 'care', '8', 'hour'), 37) 4.67%
 (('initi', 'effect', 'interperson', 'skill'), 37) 4.67%
 (('paid', 'time', 'vision', 'care'), 37) 4.67%
 (('team', 'player', 'excel', 'oral'), 37) 4.67%
@@ -37,6 +36,7 @@
 (('design', 'write', 'modify', 'integr'), 30) 3.78%
 (('modify', 'integr', 'test', 'websit'), 30) 3.78%
 (('integr', 'test', 'websit', 'code'), 30) 3.78%
+(('fastpac', 'environ', 'work', 'pressur'), 30) 3.78%
 (('modify', 'integr', 'test', 'softwar'), 29) 3.66%
 (('integr', 'test', 'softwar', 'code'), 29) 3.66%
 (('dental', 'care', 'disabl', 'insur'), 28) 3.53%
@@ -53,7 +53,10 @@
 (('requir', 'plan', 'design', 'write'), 28) 3.53%
 (('bachelor', 'degre', 'comput', 'scienc'), 27) 3.40%
 (('care', 'flexibl', 'schedul', 'life'), 27) 3.40%
+(('vision', 'care', 'work', '8'), 27) 3.40%
+(('care', 'work', '8', 'hour'), 27) 3.40%
 (('develop', 'logic', 'physic', 'specif'), 27) 3.40%
+(('time', 'vision', 'care', 'work'), 27) 3.40%
 (('test', 'softwar', 'code', 'identifi'), 26) 3.28%
 (('softwar', 'code', 'identifi', 'commun'), 26) 3.28%
 (('code', 'identifi', 'commun', 'technic'), 26) 3.28%
@@ -95,6 +98,3 @@
 (('team', 'develop', 'websit', 'graphics'), 22) 2.77%
 (('develop', 'websit', 'graphics', 'content'), 22) 2.77%
 (('websit', 'graphics', 'content', 'capac'), 22) 2.77%
-(('graphics', 'content', 'capac', 'interact'), 22) 2.77%
-(('content', 'capac', 'interact', 'source'), 22) 2.77%
-(('capac', 'interact', 'source', 'select'), 22) 2.77%

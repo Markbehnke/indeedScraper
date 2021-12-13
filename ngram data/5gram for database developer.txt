@@ -36,7 +36,6 @@
 (('integr', 'test', 'websit', 'code', 'conduct'), 49) 3.83%
 (('test', 'websit', 'code', 'conduct', 'test'), 49) 3.83%
 (('websit', 'code', 'conduct', 'test', 'perform'), 49) 3.83%
-(('vision', 'care', '8', 'hour', 'shift'), 49) 3.83%
 (('consult', 'client', 'develop', 'document', 'websit'), 48) 3.75%
 (('client', 'develop', 'document', 'websit', 'requir'), 47) 3.67%
 (('dental', 'care', 'extend', 'health', 'care'), 46) 3.59%
@@ -62,6 +61,7 @@
 (('mockup', 'storyboard', 'consult', 'client', 'develop'), 34) 2.65%
 (('storyboard', 'consult', 'client', 'develop', 'document'), 34) 2.65%
 (('extend', 'health', 'care', 'life', 'insur'), 33) 2.58%
+(('vision', 'care', '8', 'hour', 'shift'), 32) 2.50%
 (('document', 'status', 'oper', 'mainten', 'softwar'), 32) 2.50%
 (('product', 'prepar', 'mockup', 'storyboard', 'consult'), 31) 2.42%
 (('dental', 'care', 'disabl', 'insur', 'extend'), 30) 2.34%
@@ -71,6 +71,7 @@
 (('oral', 'commun', 'excel', 'written', 'commun'), 29) 2.26%
 (('effect', 'interperson', 'skill', 'team', 'player'), 28) 2.19%
 (('team', 'player', 'excel', 'oral', 'commun'), 28) 2.19%
+(('work', '8', 'hour', 'shift', 'monday'), 28) 2.19%
 (('excel', 'verbal', 'written', 'commun', 'skill'), 27) 2.11%
 (('player', 'excel', 'oral', 'commun', 'excel'), 27) 2.11%
 (('excel', 'written', 'commun', 'client', 'focu'), 27) 2.11%
@@ -97,4 +98,3 @@
 (('care', 'flexibl', 'schedul', 'life', 'insur'), 23) 1.80%
 (('assist', 'collect', 'document', 'user', 'requir'), 23) 1.80%
 (('softwar', 'html', 'edit', 'softwar', 'web'), 23) 1.80%
-(('initi', 'effect', 'interperson', 'skill', 'team'), 22) 1.72%

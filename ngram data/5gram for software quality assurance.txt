@@ -2,7 +2,6 @@
 (('assess', 'qualiti', 'assur', 'practices', 'softwar'), 65) 4.65%
 (('qualiti', 'assur', 'practices', 'softwar', 'product'), 65) 4.65%
 (('conduct', 'review', 'assess', 'qualiti', 'assur'), 64) 4.58%
-(('vision', 'care', '8', 'hour', 'shift'), 64) 4.58%
 (('assur', 'practices', 'softwar', 'product', 'system'), 63) 4.51%
 (('extend', 'health', 'care', 'life', 'insur'), 63) 4.51%
 (('design', 'develop', 'implement', 'system', 'busi'), 59) 4.22%
@@ -25,6 +24,7 @@
 (('polici', 'procedur', 'softwar', 'develop', 'life'), 54) 3.86%
 (('secur', 'risk', 'data', 'softwar', 'hardwar'), 53) 3.79%
 (('procedur', 'softwar', 'develop', 'life', 'cycl'), 53) 3.79%
+(('vision', 'care', '8', 'hour', 'shift'), 53) 3.79%
 (('confer', 'client', 'identifi', 'document', 'requir'), 52) 3.72%
 (('develop', 'policies', 'procedur', 'conting', 'plan'), 51) 3.65%
 (('policies', 'procedur', 'conting', 'plan', 'minim'), 51) 3.65%
@@ -83,18 +83,18 @@
 (('disabl', 'insur', 'extend', 'health', 'care'), 30) 2.15%
 (('8', 'hour', 'shift', 'day', 'shift'), 30) 2.15%
 (('care', 'life', 'insur', 'onsit', 'park'), 29) 2.07%
-(('care', '8', 'hour', 'shift', 'monday'), 28) 2.00%
 (('dental', 'care', 'disabl', 'insur', 'extend'), 28) 2.00%
 (('care', 'disabl', 'insur', 'extend', 'health'), 28) 2.00%
 (('effect', 'interperson', 'skill', 'accur', 'team'), 27) 1.93%
 (('interperson', 'skill', 'accur', 'team', 'player'), 27) 1.93%
+(('qualiti', 'assurance', '1', 'year', 'preferred'), 26) 1.86%
 (('onsit', 'park', 'paid', 'time', 'rrsp'), 25) 1.79%
 (('park', 'paid', 'time', 'rrsp', 'match'), 25) 1.79%
 (('skill', 'accur', 'team', 'player', 'excel'), 24) 1.72%
+(('care', '8', 'hour', 'shift', 'monday'), 24) 1.72%
 (('hour', 'shift', 'day', 'shift', 'monday'), 24) 1.72%
 (('shift', 'day', 'shift', 'monday', 'friday'), 24) 1.72%
 (('cong', 'vacanc', 'compensatoir', 'vnement', 'dentrepris'), 24) 1.72%
 (('excel', 'written', 'verbal', 'commun', 'skill'), 23) 1.65%
 (('casual', 'dress', 'dental', 'care', 'disabl'), 23) 1.65%
 (('dress', 'dental', 'care', 'disabl', 'insur'), 23) 1.65%
-(('maladi', 'complmentair', 'assur', 'vie', 'assur'), 23) 1.65%

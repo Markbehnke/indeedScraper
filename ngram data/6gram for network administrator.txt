@@ -57,8 +57,10 @@
 (('crossfunct', 'team', 'particip', 'crossteam', 'shareouts', 'brownbags'), 32) 2.50%
 (('team', 'particip', 'crossteam', 'shareouts', 'brownbags', 'workshop'), 32) 2.50%
 (('particip', 'crossteam', 'shareouts', 'brownbags', 'workshop', 'seri'), 32) 2.50%
-(('profession', 'softwar', 'develop', 'strong', 'softwar', 'engin'), 32) 2.50%
-(('softwar', 'develop', 'strong', 'softwar', 'engin', 'fundament'), 32) 2.50%
+(('year', 'profession', 'softwar', 'develop', 'experi', 'strong'), 32) 2.50%
+(('profession', 'softwar', 'develop', 'experi', 'strong', 'softwar'), 32) 2.50%
+(('softwar', 'develop', 'experi', 'strong', 'softwar', 'engin'), 32) 2.50%
+(('develop', 'experi', 'strong', 'softwar', 'engin', 'fundament'), 32) 2.50%
 (('proven', 'passion', 'build', 'learning', 'open', 'sourc'), 32) 2.50%
 (('passion', 'build', 'learning', 'open', 'sourc', 'contributions'), 32) 2.50%
 (('build', 'learning', 'open', 'sourc', 'contributions', 'pet'), 32) 2.50%
@@ -66,6 +68,7 @@
 (('open', 'sourc', 'contributions', 'pet', 'projects', 'selfeducation'), 32) 2.50%
 (('sourc', 'contributions', 'pet', 'projects', 'selfeducation', 'stack'), 32) 2.50%
 (('contributions', 'pet', 'projects', 'selfeducation', 'stack', 'overflow'), 32) 2.50%
+(('pet', 'projects', 'selfeducation', 'stack', 'overflow', 'experi'), 32) 2.50%
 (('build', 'structur', 'document', 'rest', 'api', 'app'), 31) 2.42%
 (('structur', 'document', 'rest', 'api', 'app', 'share'), 31) 2.42%
 (('document', 'rest', 'api', 'app', 'share', 'data'), 31) 2.42%
@@ -95,6 +98,3 @@
 (('advic', 'simul', 'hundr', 'thousand', 'kid', 'implement'), 31) 2.42%
 (('simul', 'hundr', 'thousand', 'kid', 'implement', 'scaling'), 31) 2.42%
 (('hundr', 'thousand', 'kid', 'implement', 'scaling', 'stability'), 31) 2.42%
-(('thousand', 'kid', 'implement', 'scaling', 'stability', 'secur'), 31) 2.42%
-(('kid', 'implement', 'scaling', 'stability', 'secur', 'improv'), 31) 2.42%
-(('implement', 'scaling', 'stability', 'secur', 'improv', 'improv'), 31) 2.42%

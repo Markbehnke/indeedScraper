@@ -24,7 +24,6 @@
 (('appearance', 'layout', 'flow', 'websit'), 56) 4.37%
 (('conduct', 'test', 'perform', 'secur'), 56) 4.37%
 (('test', 'perform', 'secur', 'qualiti'), 56) 4.37%
-(('care', '8', 'hour', 'shift'), 56) 4.37%
 (('layout', 'flow', 'websit', 'creat'), 55) 4.29%
 (('flow', 'websit', 'creat', 'optim'), 55) 4.29%
 (('websit', 'creat', 'optim', 'content'), 55) 4.29%
@@ -41,9 +40,9 @@
 (('database', 'anim', 'softwar', 'develop'), 50) 3.90%
 (('anim', 'softwar', 'develop', 'websit'), 50) 3.90%
 (('softwar', 'develop', 'websit', 'architectur'), 50) 3.90%
+(('work', '8', 'hour', 'shift'), 50) 3.90%
 (('test', 'websit', 'code', 'conduct'), 49) 3.83%
 (('websit', 'code', 'conduct', 'test'), 49) 3.83%
-(('vision', 'care', '8', 'hour'), 49) 3.83%
 (('client', 'develop', 'document', 'websit'), 48) 3.75%
 (('develop', 'document', 'websit', 'requir'), 47) 3.67%
 (('dental', 'care', 'extend', 'health'), 46) 3.59%
@@ -61,6 +60,7 @@
 (('written', 'verbal', 'commun', 'skill'), 41) 3.20%
 (('dental', 'care', 'disabl', 'insur'), 39) 3.04%
 (('verbal', 'written', 'commun', 'skill'), 39) 3.04%
+(('care', '8', 'hour', 'shift'), 38) 2.97%
 (('initi', 'effect', 'interperson', 'skill'), 38) 2.97%
 (('compani', 'event', 'dental', 'care'), 37) 2.89%
 (('document', 'websit', 'requir', 'lead'), 37) 2.89%
@@ -72,12 +72,15 @@
 (('media', 'softwar', 'product', 'prepar'), 35) 2.73%
 (('softwar', 'product', 'prepar', 'mockup'), 35) 2.73%
 (('product', 'prepar', 'mockup', 'storyboard'), 35) 2.73%
+(('year', 'preferred', 'temporarili', 'covid19'), 34) 2.65%
 (('prepar', 'mockup', 'storyboard', 'consult'), 34) 2.65%
 (('mockup', 'storyboard', 'consult', 'client'), 34) 2.65%
 (('storyboard', 'consult', 'client', 'develop'), 34) 2.65%
 (('document', 'status', 'oper', 'mainten'), 34) 2.65%
 (('extend', 'health', 'care', 'life'), 33) 2.58%
 (('health', 'care', 'life', 'insur'), 33) 2.58%
+(('minimum', '3', 'year', 'experi'), 32) 2.50%
+(('vision', 'care', '8', 'hour'), 32) 2.50%
 (('status', 'oper', 'mainten', 'softwar'), 32) 2.50%
 (('excel', 'verbal', 'written', 'commun'), 31) 2.42%
 (('care', 'disabl', 'insur', 'extend'), 30) 2.34%
@@ -94,7 +97,4 @@
 (('team', 'player', 'excel', 'oral'), 28) 2.19%
 (('player', 'excel', 'oral', 'commun'), 28) 2.19%
 (('softwar', 'html', 'edit', 'softwar'), 28) 2.19%
-(('vision', 'care', 'monday', 'friday'), 28) 2.19%
 (('comput', 'science', 'comput', 'engin'), 28) 2.19%
-(('websit', 'creation', 'manag', 'softwar'), 27) 2.11%
-(('excel', 'written', 'commun', 'client'), 27) 2.11%

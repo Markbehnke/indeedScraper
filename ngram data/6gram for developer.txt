@@ -34,6 +34,7 @@
 (('requir', 'plan', 'design', 'write', 'modify', 'integr'), 28) 3.53%
 (('extend', 'health', 'care', 'flexibl', 'schedul', 'life'), 27) 3.40%
 (('health', 'care', 'flexibl', 'schedul', 'life', 'insur'), 27) 3.40%
+(('vision', 'care', 'work', '8', 'hour', 'shift'), 27) 3.40%
 (('modify', 'integr', 'test', 'softwar', 'code', 'identifi'), 26) 3.28%
 (('integr', 'test', 'softwar', 'code', 'identifi', 'commun'), 26) 3.28%
 (('test', 'softwar', 'code', 'identifi', 'commun', 'technic'), 26) 3.28%
@@ -92,9 +93,8 @@
 (('interperson', 'skill', 'team', 'player', 'excel', 'oral'), 19) 2.40%
 (('skill', 'team', 'player', 'excel', 'oral', 'commun'), 19) 2.40%
 (('flexibl', 'schedul', 'life', 'insur', 'paid', 'time'), 18) 2.27%
+(('work', '8', 'hour', 'shift', 'monday', 'friday'), 18) 2.27%
 (('comput', 'program', 'make', 'modif', 'requir', 'write'), 18) 2.27%
 (('program', 'make', 'modif', 'requir', 'write', 'modify'), 18) 2.27%
 (('make', 'modif', 'requir', 'write', 'modify', 'integr'), 18) 2.27%
 (('modif', 'requir', 'write', 'modify', 'integr', 'test'), 18) 2.27%
-(('requir', 'write', 'modify', 'integr', 'test', 'softwar'), 18) 2.27%
-(('dental', 'care', 'extend', 'health', 'care', 'flexibl'), 18) 2.27%

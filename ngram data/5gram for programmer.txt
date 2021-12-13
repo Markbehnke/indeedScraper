@@ -39,7 +39,6 @@
 (('player', 'excel', 'oral', 'commun', 'excel'), 26) 5.45%
 (('excel', 'oral', 'commun', 'excel', 'written'), 26) 5.45%
 (('oral', 'commun', 'excel', 'written', 'commun'), 26) 5.45%
-(('vision', 'care', '8', 'hour', 'shift'), 25) 5.24%
 (('effect', 'interperson', 'skill', 'accur', 'team'), 23) 4.82%
 (('interperson', 'skill', 'accur', 'team', 'player'), 23) 4.82%
 (('initi', 'effect', 'interperson', 'skill', 'accur'), 20) 4.19%
@@ -52,6 +51,8 @@
 (('skill', 'accur', 'team', 'player', 'excel'), 17) 3.56%
 (('extend', 'health', 'care', 'flexibl', 'schedul'), 17) 3.56%
 (('commun', 'excel', 'written', 'commun', 'client'), 17) 3.56%
+(('vision', 'care', 'work', '8', 'hour'), 16) 3.35%
+(('care', 'work', '8', 'hour', 'shift'), 16) 3.35%
 (('evalu', 'varieti', 'softwar', 'product', 'maintain'), 15) 3.14%
 (('varieti', 'softwar', 'product', 'maintain', 'exist'), 15) 3.14%
 (('softwar', 'product', 'maintain', 'exist', 'comput'), 15) 3.14%
@@ -97,4 +98,3 @@
 (('hardwar', 'softwar', 'requir', 'plan', 'design'), 12) 2.52%
 (('softwar', 'requir', 'plan', 'design', 'write'), 12) 2.52%
 (('requir', 'plan', 'design', 'write', 'modify'), 12) 2.52%
-(('integr', 'test', 'websit', 'code', 'conduct'), 12) 2.52%

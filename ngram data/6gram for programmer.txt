@@ -46,6 +46,7 @@
 (('interperson', 'skill', 'accur', 'team', 'player', 'excel'), 17) 3.56%
 (('oral', 'commun', 'excel', 'written', 'commun', 'client'), 17) 3.56%
 (('commun', 'excel', 'written', 'commun', 'client', 'focu'), 17) 3.56%
+(('vision', 'care', 'work', '8', 'hour', 'shift'), 16) 3.35%
 (('skill', 'accur', 'team', 'player', 'excel', 'oral'), 16) 3.35%
 (('evalu', 'varieti', 'softwar', 'product', 'maintain', 'exist'), 15) 3.14%
 (('varieti', 'softwar', 'product', 'maintain', 'exist', 'comput'), 15) 3.14%
@@ -97,4 +98,3 @@
 (('compani', 'event', 'dental', 'care', 'extend', 'health'), 11) 2.31%
 (('event', 'dental', 'care', 'extend', 'health', 'care'), 11) 2.31%
 (('assist', 'develop', 'logic', 'physic', 'specif', 'maintain'), 10) 2.10%
-(('develop', 'logic', 'physic', 'specif', 'maintain', 'exist'), 10) 2.10%

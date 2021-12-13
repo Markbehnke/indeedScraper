@@ -37,19 +37,19 @@
 (('modif', 'requir', 'write', 'modify'), 29) 6.08%
 (('requir', 'write', 'modify', 'integr'), 29) 6.08%
 (('initi', 'effect', 'interperson', 'skill'), 29) 6.08%
-(('care', '8', 'hour', 'shift'), 28) 5.87%
 (('document', 'user', 'requir', 'assist'), 28) 5.87%
 (('user', 'requir', 'assist', 'develop'), 28) 5.87%
 (('requir', 'assist', 'develop', 'logic'), 28) 5.87%
 (('excel', 'oral', 'commun', 'excel'), 26) 5.45%
 (('oral', 'commun', 'excel', 'written'), 26) 5.45%
 (('commun', 'excel', 'written', 'commun'), 26) 5.45%
-(('vision', 'care', '8', 'hour'), 25) 5.24%
+(('work', '8', 'hour', 'shift'), 25) 5.24%
 (('effect', 'interperson', 'skill', 'accur'), 23) 4.82%
 (('interperson', 'skill', 'accur', 'team'), 23) 4.82%
 (('skill', 'accur', 'team', 'player'), 23) 4.82%
 (('evalu', 'varieti', 'softwar', 'product'), 23) 4.82%
 (('accur', 'team', 'player', 'excel'), 22) 4.61%
+(('fastpac', 'environ', 'work', 'pressur'), 22) 4.61%
 (('compani', 'event', 'dental', 'care'), 21) 4.40%
 (('logic', 'physic', 'specif', 'evalu'), 20) 4.19%
 (('physic', 'specif', 'evalu', 'varieti'), 20) 4.19%
@@ -59,6 +59,8 @@
 (('extend', 'health', 'care', 'flexibl'), 17) 3.56%
 (('health', 'care', 'flexibl', 'schedul'), 17) 3.56%
 (('casual', 'dress', 'compani', 'event'), 16) 3.35%
+(('vision', 'care', 'work', '8'), 16) 3.35%
+(('care', 'work', '8', 'hour'), 16) 3.35%
 (('benefit', 'group', 'insur', 'benefit'), 16) 3.35%
 (('client', 'focu', 'judgement', 'organ'), 16) 3.35%
 (('attent', 'sit', 'tight', 'deadlin'), 15) 3.14%
@@ -96,5 +98,3 @@
 (('develop', 'document', 'websit', 'requir'), 13) 2.73%
 (('appearance', 'layout', 'flow', 'websit'), 13) 2.73%
 (('layout', 'flow', 'websit', 'creat'), 13) 2.73%
-(('flow', 'websit', 'creat', 'optim'), 13) 2.73%
-(('websit', 'creat', 'optim', 'content'), 13) 2.73%

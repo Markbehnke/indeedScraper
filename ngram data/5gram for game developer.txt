@@ -3,7 +3,8 @@
 (('casual', 'dress', 'compani', 'event', 'dental'), 29) 2.12%
 (('dress', 'compani', 'event', 'dental', 'care'), 29) 2.12%
 (('dental', 'care', 'extend', 'health', 'care'), 28) 2.04%
-(('person', 'develop', 'opportun', 'possibl', 'multicultur'), 28) 2.04%
+(('person', 'develop', 'opportun', 'possibl', 'work'), 28) 2.04%
+(('develop', 'opportun', 'possibl', 'work', 'multicultur'), 28) 2.04%
 (('inform', 'atmosphere', 'dress', 'code', 'unwant'), 28) 2.04%
 (('atmosphere', 'dress', 'code', 'unwant', 'formal'), 28) 2.04%
 (('cv', 'highlight', 'education', 'experience', 'skill'), 27) 1.97%
@@ -27,9 +28,10 @@
 (('verbal', 'written', 'commun', 'skill', 'english'), 23) 1.68%
 (('8', 'hour', 'shift', 'monday', 'friday'), 22) 1.60%
 (('excel', 'written', 'verbal', 'commun', 'skill'), 22) 1.60%
-(('vision', 'care', '8', 'hour', 'shift'), 22) 1.60%
 (('young', 'organ', 'true', 'impact', 'daili'), 22) 1.60%
-(('opportun', 'innovative', 'excit', 'aaa', 'project'), 22) 1.60%
+(('organ', 'true', 'impact', 'daili', 'work'), 22) 1.60%
+(('opportun', 'work', 'innovative', 'excit', 'aaa'), 22) 1.60%
+(('work', 'innovative', 'excit', 'aaa', 'project'), 22) 1.60%
 (('innovative', 'excit', 'aaa', 'project', 'newest'), 22) 1.60%
 (('disabl', 'insur', 'extend', 'health', 'care'), 21) 1.53%
 (('prepar', 'reports', 'manual', 'document', 'status'), 21) 1.53%
@@ -71,10 +73,12 @@
 (('perform', 'reviews', 'ongo', 'mentorship', 'feedback'), 19) 1.39%
 (('reviews', 'ongo', 'mentorship', 'feedback', 'regular'), 19) 1.39%
 (('ongo', 'mentorship', 'feedback', 'regular', '1on1'), 19) 1.39%
+(('experi', 'ship', 'multipl', 'game', 'titl'), 19) 1.39%
 (('ship', 'multipl', 'game', 'titl', 'andor'), 19) 1.39%
 (('multipl', 'game', 'titl', 'andor', 'consol'), 19) 1.39%
-(('hybrid', 'flexibl', 'model', 'week', 'vacat'), 18) 1.31%
-(('flexibl', 'model', 'week', 'vacat', 'enhanc'), 18) 1.31%
+(('hybrid', 'flexibl', 'work', 'model', 'week'), 18) 1.31%
+(('flexibl', 'work', 'model', 'week', 'vacat'), 18) 1.31%
+(('work', 'model', 'week', 'vacat', 'enhanc'), 18) 1.31%
 (('model', 'week', 'vacat', 'enhanc', 'parent'), 18) 1.31%
 (('week', 'vacat', 'enhanc', 'parent', 'leav'), 18) 1.31%
 (('vacat', 'enhanc', 'parent', 'leav', 'program'), 18) 1.31%
@@ -94,7 +98,3 @@
 (('interact', 'cds', 'dvds', 'video', 'game'), 17) 1.24%
 (('cds', 'dvds', 'video', 'game', 'cartridg'), 17) 1.24%
 (('dvds', 'video', 'game', 'cartridg', 'internetbas'), 17) 1.24%
-(('video', 'game', 'cartridg', 'internetbas', 'applic'), 17) 1.24%
-(('care', 'extend', 'health', 'care', 'flexibl'), 17) 1.24%
-(('develop', 'opportun', 'possibl', 'multicultur', 'environ'), 17) 1.24%
-(('develop', 'logic', 'physic', 'specif', 'evalu'), 16) 1.17%

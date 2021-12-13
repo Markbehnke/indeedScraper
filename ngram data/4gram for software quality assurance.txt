@@ -5,9 +5,7 @@
 (('assess', 'qualiti', 'assur', 'practices'), 65) 4.65%
 (('qualiti', 'assur', 'practices', 'softwar'), 65) 4.65%
 (('assur', 'practices', 'softwar', 'product'), 65) 4.65%
-(('care', '8', 'hour', 'shift'), 65) 4.65%
 (('conduct', 'review', 'assess', 'qualiti'), 64) 4.58%
-(('vision', 'care', '8', 'hour'), 64) 4.58%
 (('practices', 'softwar', 'product', 'system'), 63) 4.51%
 (('extend', 'health', 'care', 'life'), 63) 4.51%
 (('health', 'care', 'life', 'insur'), 63) 4.51%
@@ -37,7 +35,9 @@
 (('secur', 'risk', 'data', 'softwar'), 54) 3.86%
 (('implement', 'polici', 'procedur', 'softwar'), 54) 3.86%
 (('polici', 'procedur', 'softwar', 'develop'), 54) 3.86%
+(('care', '8', 'hour', 'shift'), 54) 3.86%
 (('risk', 'data', 'softwar', 'hardwar'), 53) 3.79%
+(('vision', 'care', '8', 'hour'), 53) 3.79%
 (('client', 'identifi', 'document', 'requir'), 52) 3.72%
 (('develop', 'policies', 'procedur', 'conting'), 51) 3.65%
 (('policies', 'procedur', 'conting', 'plan'), 51) 3.65%
@@ -75,6 +75,7 @@
 (('dentair', 'assur', 'invalidit', 'assur'), 43) 3.08%
 (('casual', 'dress', 'dental', 'care'), 42) 3.00%
 (('casual', 'dress', 'compani', 'event'), 41) 2.93%
+(('year', 'preferred', 'temporarili', 'covid19'), 40) 2.86%
 (('identifi', 'document', 'requir', 'conduct'), 40) 2.86%
 (('document', 'requir', 'conduct', 'busi'), 40) 2.86%
 (('requir', 'conduct', 'busi', 'technic'), 40) 2.86%
@@ -85,6 +86,7 @@
 (('insur', 'onsit', 'park', 'paid'), 40) 2.86%
 (('assur', 'maladi', 'complmentair', 'assur'), 38) 2.72%
 (('maladi', 'complmentair', 'assur', 'vie'), 37) 2.65%
+(('minimum', '3', 'year', 'experi'), 36) 2.58%
 (('oral', 'written', 'commun', 'skill'), 36) 2.58%
 (('excel', 'written', 'verbal', 'commun'), 36) 2.58%
 (('verbal', 'written', 'commun', 'skills'), 36) 2.58%
@@ -96,5 +98,3 @@
 (('team', 'player', 'excel', 'oral'), 33) 2.36%
 (('player', 'excel', 'oral', 'commun'), 33) 2.36%
 (('care', 'life', 'insur', 'onsit'), 33) 2.36%
-(('assur', 'invalidit', 'assur', 'maladi'), 33) 2.36%
-(('invalidit', 'assur', 'maladi', 'complmentair'), 33) 2.36%

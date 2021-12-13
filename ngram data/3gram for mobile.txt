@@ -22,6 +22,7 @@
 (('lundi', 'vendredi', 'quart'), 31) 3.92%
 (('shift', 'monday', 'friday'), 31) 3.92%
 (('heur', 'lundi', 'vendredi'), 29) 3.67%
+(('1', 'year', 'preferred'), 28) 3.54%
 (('vendredi', 'quart', 'jour'), 28) 3.54%
 (('avec', 'contribut', 'lemployeur'), 28) 3.54%
 (('autr', 'tche', 'connex'), 28) 3.54%
@@ -67,6 +68,7 @@
 (('diplm', 'dtude', 'professionnel'), 18) 2.28%
 (('night', 'shift', 'weekend'), 18) 2.28%
 (('aux', 'employ', 'programm'), 18) 2.28%
+(('abil', 'work', 'independ'), 18) 2.28%
 (('aux', 'employ', 'reer'), 17) 2.15%
 (('employ', 'reer', 'collectif'), 17) 2.15%
 (('jour', 'soir', 'nuit'), 17) 2.15%
@@ -96,5 +98,3 @@
 (('travail', 'scuritair', 'activit'), 15) 1.90%
 (('scuritair', 'activit', 'social'), 15) 1.90%
 (('fin', 'semain', 'lundi'), 15) 1.90%
-(('semain', 'lundi', 'vendredi'), 15) 1.90%
-(('friday', 'night', 'shift'), 15) 1.90%

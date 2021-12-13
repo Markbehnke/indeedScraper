@@ -53,11 +53,12 @@
 (('technic', 'studi', 'design', 'develop', 'implement'), 30) 2.20%
 (('studi', 'design', 'develop', 'implement', 'system'), 30) 2.20%
 (('dental', 'care', 'extend', 'health', 'care'), 27) 1.98%
-(('vision', 'care', '8', 'hour', 'shift'), 26) 1.90%
 (('extend', 'health', 'care', 'life', 'insur'), 26) 1.90%
+(('inclus', 'collabor', 'work', 'environ', 'encourag'), 21) 1.54%
 (('excel', 'oral', 'commun', 'excel', 'written'), 18) 1.32%
 (('oral', 'commun', 'excel', 'written', 'commun'), 18) 1.32%
-(('inclus', 'collabor', 'work', 'environ', 'encourag'), 18) 1.32%
+(('collabor', 'work', 'environ', 'encourag', 'creativity'), 18) 1.32%
+(('work', 'environ', 'encourag', 'creativity', 'curiosity'), 18) 1.32%
 (('environ', 'encourag', 'creativity', 'curiosity', 'celebr'), 18) 1.32%
 (('encourag', 'creativity', 'curiosity', 'celebr', 'success'), 18) 1.32%
 (('lead', 'level', 'grow', 'world', 'leader'), 17) 1.24%
@@ -65,6 +66,7 @@
 (('grow', 'world', 'leader', 'achiev', 'impact'), 17) 1.24%
 (('world', 'leader', 'achiev', 'impact', 'seek'), 17) 1.24%
 (('leader', 'achiev', 'impact', 'seek', 'faster'), 17) 1.24%
+(('work', 'way', 'flexibl', 'work', 'innov'), 17) 1.24%
 (('way', 'flexibl', 'work', 'innov', 'spaces'), 17) 1.24%
 (('flexibl', 'work', 'innov', 'spaces', 'arrang'), 17) 1.24%
 (('work', 'innov', 'spaces', 'arrang', 'mindset'), 17) 1.24%
@@ -81,6 +83,7 @@
 (('insur', 'onsit', 'park', 'paid', 'time'), 17) 1.24%
 (('team', 'player', 'excel', 'oral', 'commun'), 17) 1.24%
 (('extend', 'health', 'care', 'flexibl', 'schedul'), 17) 1.24%
+(('work', 'learn', 'divers', 'industri', 'leaders'), 17) 1.24%
 (('perform', 'bonus', 'compani', 'match', 'program'), 17) 1.24%
 (('monday', 'friday', 'bachelor', 'degre', 'preferred'), 17) 1.24%
 (('effect', 'interperson', 'skill', 'accur', 'team'), 16) 1.17%
@@ -92,9 +95,6 @@
 (('divers', 'industri', 'leaders', 'hail', 'technolog'), 16) 1.17%
 (('industri', 'leaders', 'hail', 'technolog', 'compani'), 16) 1.17%
 (('reliabl', 'commut', 'plan', 'reloc', 'start'), 15) 1.10%
+(('commut', 'plan', 'reloc', 'start', 'work'), 15) 1.10%
 (('initi', 'effect', 'interperson', 'skill', 'accur'), 15) 1.10%
 (('dental', 'care', 'disabl', 'insur', 'employe'), 15) 1.10%
-(('care', 'disabl', 'insur', 'employe', 'assist'), 15) 1.10%
-(('disabl', 'insur', 'employe', 'assist', 'program'), 15) 1.10%
-(('excel', 'verbal', 'written', 'commun', 'skills'), 15) 1.10%
-(('verbal', 'written', 'commun', 'skill', 'indepth'), 15) 1.10%

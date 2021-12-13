@@ -2,8 +2,7 @@
 (('dental', 'care', 'disabl', 'insur'), 71) 5.16%
 (('extend', 'health', 'care', 'flexibl'), 63) 4.58%
 (('health', 'care', 'flexibl', 'schedul'), 63) 4.58%
-(('vision', 'care', '8', 'hour'), 52) 3.78%
-(('care', '8', 'hour', 'shift'), 52) 3.78%
+(('work', '8', 'hour', 'shift'), 53) 3.85%
 (('flexibl', 'schedul', 'life', 'insur'), 50) 3.63%
 (('bachelor', 'degre', 'comput', 'science'), 49) 3.56%
 (('8', 'hour', 'shift', 'monday'), 47) 3.42%
@@ -22,10 +21,14 @@
 (('compani', 'event', 'dental', 'care'), 34) 2.47%
 (('degre', 'comput', 'scienc', 'equival'), 34) 2.47%
 (('paid', 'time', 'rrsp', 'match'), 32) 2.33%
-(('vision', 'care', 'monday', 'friday'), 31) 2.25%
+(('vision', 'care', 'work', '8'), 31) 2.25%
+(('care', 'work', '8', 'hour'), 31) 2.25%
 (('rrsp', 'match', 'vision', 'care'), 30) 2.18%
 (('schedul', 'life', 'insur', 'paid'), 30) 2.18%
+(('year', 'experi', 'softwar', 'develop'), 29) 2.11%
+(('year', 'web', 'develop', 'experi'), 28) 2.03%
 (('written', 'verbal', 'commun', 'skill'), 28) 2.03%
+(('year', 'softwar', 'develop', 'experi'), 27) 1.96%
 (('onsit', 'park', 'paid', 'time'), 27) 1.96%
 (('extend', 'health', 'care', 'life'), 27) 1.96%
 (('health', 'care', 'life', 'insur'), 27) 1.96%
@@ -69,6 +72,7 @@
 (('employe', 'assist', 'program', 'extend'), 23) 1.67%
 (('assist', 'program', 'extend', 'health'), 23) 1.67%
 (('program', 'extend', 'health', 'care'), 23) 1.67%
+(('year', 'preferred', 'temporarili', 'covid19'), 23) 1.67%
 (('lead', 'coordin', 'multidisciplinari', 'team'), 23) 1.67%
 (('coordin', 'multidisciplinari', 'team', 'develop'), 23) 1.67%
 (('multidisciplinari', 'team', 'develop', 'websit'), 23) 1.67%
@@ -80,6 +84,7 @@
 (('content', 'websit', 'varieti', 'graphics'), 23) 1.67%
 (('websit', 'varieti', 'graphics', 'database'), 23) 1.67%
 (('varieti', 'graphics', 'database', 'anim'), 23) 1.67%
+(('time', 'vision', 'care', 'work'), 22) 1.60%
 (('excel', 'verbal', 'written', 'commun'), 22) 1.60%
 (('degre', 'comput', 'science', 'engineering'), 22) 1.60%
 (('graphics', 'content', 'capac', 'interact'), 22) 1.60%
@@ -89,12 +94,7 @@
 (('graphics', 'database', 'anim', 'softwar'), 22) 1.60%
 (('8', 'hour', 'shift', 'temporarili'), 22) 1.60%
 (('hour', 'shift', 'temporarili', 'covid19'), 22) 1.60%
+(('experi', 'work', 'rest', 'api'), 21) 1.53%
+(('vision', 'care', '8', 'hour'), 21) 1.53%
+(('care', '8', 'hour', 'shift'), 21) 1.53%
 (('document', 'websit', 'requir', 'lead'), 21) 1.53%
-(('websit', 'requir', 'lead', 'coordin'), 21) 1.53%
-(('requir', 'lead', 'coordin', 'multidisciplinari'), 21) 1.53%
-(('content', 'capac', 'interact', 'source'), 21) 1.53%
-(('capac', 'interact', 'source', 'select'), 21) 1.53%
-(('interact', 'source', 'select', 'organ'), 21) 1.53%
-(('database', 'anim', 'softwar', 'develop'), 21) 1.53%
-(('anim', 'softwar', 'develop', 'websit'), 21) 1.53%
-(('softwar', 'develop', 'websit', 'architectur'), 21) 1.53%

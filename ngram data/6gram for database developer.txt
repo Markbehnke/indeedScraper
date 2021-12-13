@@ -60,6 +60,7 @@
 (('dental', 'care', 'disabl', 'insur', 'extend', 'health'), 30) 2.34%
 (('care', 'disabl', 'insur', 'extend', 'health', 'care'), 30) 2.34%
 (('excel', 'oral', 'commun', 'excel', 'written', 'commun'), 29) 2.26%
+(('work', '8', 'hour', 'shift', 'monday', 'friday'), 28) 2.19%
 (('team', 'player', 'excel', 'oral', 'commun', 'excel'), 27) 2.11%
 (('player', 'excel', 'oral', 'commun', 'excel', 'written'), 27) 2.11%
 (('write', 'modify', 'integr', 'test', 'softwar', 'code'), 27) 2.11%
@@ -97,4 +98,3 @@
 (('enrich', 'challeng', 'provid', 'opportun', 'constant', 'learn'), 21) 1.64%
 (('challeng', 'provid', 'opportun', 'constant', 'learn', 'advanc'), 21) 1.64%
 (('provid', 'opportun', 'constant', 'learn', 'advanc', 'environ'), 21) 1.64%
-(('opportun', 'constant', 'learn', 'advanc', 'environ', 'leverag'), 21) 1.64%

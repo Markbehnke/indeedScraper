@@ -52,8 +52,10 @@
 (('integr', 'test', 'softwar', 'code', 'ecommerc'), 31) 4.22%
 (('test', 'softwar', 'code', 'ecommerc', 'internet'), 31) 4.22%
 (('softwar', 'code', 'ecommerc', 'internet', 'applic'), 31) 4.22%
+(('fastpac', 'environ', 'work', 'pressur', 'attent'), 27) 3.68%
 (('8', 'hour', 'shift', 'monday', 'friday'), 25) 3.41%
-(('fastpac', 'environ', 'pressur', 'repetit', 'task'), 24) 3.27%
+(('fastpac', 'environ', 'work', 'pressur', 'repetit'), 24) 3.27%
+(('environ', 'work', 'pressur', 'repetit', 'task'), 24) 3.27%
 (('assess', 'troubleshoot', 'document', 'upgrad', 'develop'), 22) 3.00%
 (('troubleshoot', 'document', 'upgrad', 'develop', 'mainten'), 22) 3.00%
 (('document', 'upgrad', 'develop', 'mainten', 'procedur'), 22) 3.00%
@@ -67,7 +69,6 @@
 (('varieti', 'softwar', 'product', 'maintain', 'exist'), 22) 3.00%
 (('softwar', 'product', 'maintain', 'exist', 'comput'), 22) 3.00%
 (('product', 'maintain', 'exist', 'comput', 'program'), 22) 3.00%
-(('vision', 'care', '8', 'hour', 'shift'), 22) 3.00%
 (('plan', 'design', 'coordin', 'development', 'installation'), 21) 2.86%
 (('design', 'coordin', 'development', 'installation', 'integr'), 21) 2.86%
 (('coordin', 'development', 'installation', 'integr', 'oper'), 21) 2.86%
@@ -81,7 +82,7 @@
 (('document', 'user', 'requir', 'develop', 'logic'), 20) 2.72%
 (('user', 'requir', 'develop', 'logic', 'physic'), 20) 2.72%
 (('requir', 'develop', 'logic', 'physic', 'specif'), 20) 2.72%
-(('environ', 'pressur', 'repetit', 'task', 'attent'), 20) 2.72%
+(('work', 'pressur', 'repetit', 'task', 'attent'), 20) 2.72%
 (('develop', 'data', 'process', 'network', 'model'), 19) 2.59%
 (('data', 'process', 'network', 'model', 'optim'), 19) 2.59%
 (('process', 'network', 'model', 'optim', 'architectur'), 19) 2.59%
@@ -97,4 +98,3 @@
 (('evalu', 'perform', 'reliabl', 'design', 'plan'), 18) 2.45%
 (('perform', 'reliabl', 'design', 'plan', 'design'), 18) 2.45%
 (('reliabl', 'design', 'plan', 'design', 'coordin'), 18) 2.45%
-(('design', 'plan', 'design', 'coordin', 'development'), 18) 2.45%

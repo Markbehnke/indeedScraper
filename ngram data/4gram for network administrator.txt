@@ -28,17 +28,18 @@
 (('contribut', 'team', 'busi', 'user'), 48) 3.75%
 (('team', 'busi', 'user', 'serve'), 48) 3.75%
 (('busi', 'user', 'serve', 'organ'), 48) 3.75%
-(('vision', 'care', '8', 'hour'), 47) 3.67%
-(('care', '8', 'hour', 'shift'), 47) 3.67%
 (('written', 'oral', 'commun', 'skill'), 47) 3.67%
 (('bachelor', 'degre', 'comput', 'scienc'), 44) 3.44%
 (('8', 'hour', 'shift', 'monday'), 43) 3.36%
 (('hour', 'shift', 'monday', 'friday'), 43) 3.36%
+(('vision', 'care', '8', 'hour'), 41) 3.21%
+(('care', '8', 'hour', 'shift'), 41) 3.21%
 (('dental', 'care', 'extend', 'health'), 40) 3.13%
 (('care', 'extend', 'health', 'care'), 40) 3.13%
 (('extend', 'health', 'care', 'life'), 39) 3.05%
 (('health', 'care', 'life', 'insur'), 39) 3.05%
 (('excel', 'verbal', 'written', 'commun'), 39) 3.05%
+(('experi', 'work', 'teamoriented', 'collabor'), 38) 2.97%
 (('excel', 'written', 'verbal', 'commun'), 37) 2.89%
 (('administ', 'local', 'area', 'network'), 37) 2.89%
 (('local', 'area', 'network', 'lans'), 37) 2.89%
@@ -97,4 +98,3 @@
 (('crossfunct', 'team', 'particip', 'crossteam'), 32) 2.50%
 (('team', 'particip', 'crossteam', 'shareouts'), 32) 2.50%
 (('particip', 'crossteam', 'shareouts', 'brownbags'), 32) 2.50%
-(('crossteam', 'shareouts', 'brownbags', 'workshop'), 32) 2.50%

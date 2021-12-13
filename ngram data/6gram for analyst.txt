@@ -49,6 +49,7 @@
 (('modify', 'integr', 'test', 'softwar', 'code', 'ecommerc'), 31) 4.22%
 (('integr', 'test', 'softwar', 'code', 'ecommerc', 'internet'), 31) 4.22%
 (('test', 'softwar', 'code', 'ecommerc', 'internet', 'applic'), 31) 4.22%
+(('fastpac', 'environ', 'work', 'pressur', 'repetit', 'task'), 24) 3.27%
 (('assess', 'troubleshoot', 'document', 'upgrad', 'develop', 'mainten'), 22) 3.00%
 (('troubleshoot', 'document', 'upgrad', 'develop', 'mainten', 'procedur'), 22) 3.00%
 (('document', 'upgrad', 'develop', 'mainten', 'procedur', 'oper'), 22) 3.00%
@@ -73,7 +74,7 @@
 (('collect', 'document', 'user', 'requir', 'develop', 'logic'), 20) 2.72%
 (('document', 'user', 'requir', 'develop', 'logic', 'physic'), 20) 2.72%
 (('user', 'requir', 'develop', 'logic', 'physic', 'specif'), 20) 2.72%
-(('fastpac', 'environ', 'pressur', 'repetit', 'task', 'attent'), 20) 2.72%
+(('environ', 'work', 'pressur', 'repetit', 'task', 'attent'), 20) 2.72%
 (('develop', 'data', 'process', 'network', 'model', 'optim'), 19) 2.59%
 (('data', 'process', 'network', 'model', 'optim', 'architectur'), 19) 2.59%
 (('process', 'network', 'model', 'optim', 'architectur', 'evalu'), 19) 2.59%
@@ -97,4 +98,3 @@
 (('specif', 'research', 'evalu', 'synthes', 'technic', 'design'), 17) 2.32%
 (('systems', 'commun', 'environ', 'applic', 'softwar', 'lead'), 17) 2.32%
 (('commun', 'environ', 'applic', 'softwar', 'lead', 'coordin'), 17) 2.32%
-(('environ', 'applic', 'softwar', 'lead', 'coordin', 'team'), 17) 2.32%

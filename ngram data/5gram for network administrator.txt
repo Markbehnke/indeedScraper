@@ -20,8 +20,8 @@
 (('meaning', 'contribut', 'team', 'busi', 'user'), 48) 3.75%
 (('contribut', 'team', 'busi', 'user', 'serve'), 48) 3.75%
 (('team', 'busi', 'user', 'serve', 'organ'), 48) 3.75%
-(('vision', 'care', '8', 'hour', 'shift'), 47) 3.67%
 (('8', 'hour', 'shift', 'monday', 'friday'), 43) 3.36%
+(('vision', 'care', '8', 'hour', 'shift'), 41) 3.21%
 (('dental', 'care', 'extend', 'health', 'care'), 40) 3.13%
 (('extend', 'health', 'care', 'life', 'insur'), 39) 3.05%
 (('administ', 'local', 'area', 'network', 'lans'), 37) 2.89%
@@ -71,9 +71,11 @@
 (('team', 'particip', 'crossteam', 'shareouts', 'brownbags'), 32) 2.50%
 (('particip', 'crossteam', 'shareouts', 'brownbags', 'workshop'), 32) 2.50%
 (('crossteam', 'shareouts', 'brownbags', 'workshop', 'seri'), 32) 2.50%
-(('profession', 'softwar', 'develop', 'strong', 'softwar'), 32) 2.50%
-(('softwar', 'develop', 'strong', 'softwar', 'engin'), 32) 2.50%
-(('develop', 'strong', 'softwar', 'engin', 'fundament'), 32) 2.50%
+(('year', 'profession', 'softwar', 'develop', 'experi'), 32) 2.50%
+(('profession', 'softwar', 'develop', 'experi', 'strong'), 32) 2.50%
+(('softwar', 'develop', 'experi', 'strong', 'softwar'), 32) 2.50%
+(('develop', 'experi', 'strong', 'softwar', 'engin'), 32) 2.50%
+(('experi', 'strong', 'softwar', 'engin', 'fundament'), 32) 2.50%
 (('proven', 'passion', 'build', 'learning', 'open'), 32) 2.50%
 (('passion', 'build', 'learning', 'open', 'sourc'), 32) 2.50%
 (('build', 'learning', 'open', 'sourc', 'contributions'), 32) 2.50%
@@ -82,6 +84,7 @@
 (('sourc', 'contributions', 'pet', 'projects', 'selfeducation'), 32) 2.50%
 (('contributions', 'pet', 'projects', 'selfeducation', 'stack'), 32) 2.50%
 (('pet', 'projects', 'selfeducation', 'stack', 'overflow'), 32) 2.50%
+(('projects', 'selfeducation', 'stack', 'overflow', 'experi'), 32) 2.50%
 (('disabl', 'insur', 'employe', 'assist', 'program'), 31) 2.42%
 (('build', 'structur', 'document', 'rest', 'api'), 31) 2.42%
 (('structur', 'document', 'rest', 'api', 'app'), 31) 2.42%
@@ -95,6 +98,3 @@
 (('frequent', 'confid', 'school', 'administr', 'build'), 31) 2.42%
 (('confid', 'school', 'administr', 'build', 'great'), 31) 2.42%
 (('school', 'administr', 'build', 'great', 'school'), 31) 2.42%
-(('administr', 'build', 'great', 'school', 'by'), 31) 2.42%
-(('build', 'great', 'school', 'by', 'build'), 31) 2.42%
-(('great', 'school', 'by', 'build', 'data'), 31) 2.42%

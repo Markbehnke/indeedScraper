@@ -80,11 +80,12 @@
 (('deliv', 'excel', 'custom', 'uncov', 'solv', 'customers'), 11) 1.39%
 (('excel', 'custom', 'uncov', 'solv', 'customers', 'explain'), 11) 1.39%
 (('custom', 'uncov', 'solv', 'customers', 'explain', 'complic'), 11) 1.39%
-(('perform', 'environment', 'contribut', 'posit', 'teamori', 'environ'), 11) 1.39%
-(('environment', 'contribut', 'posit', 'teamori', 'environ', 'demonstr'), 11) 1.39%
-(('contribut', 'posit', 'teamori', 'environ', 'demonstr', 'eager'), 11) 1.39%
-(('posit', 'teamori', 'environ', 'demonstr', 'eager', 'learn'), 11) 1.39%
-(('teamori', 'environ', 'demonstr', 'eager', 'learn', 'determin'), 11) 1.39%
+(('perform', 'environment', 'contribut', 'posit', 'teamori', 'work'), 11) 1.39%
+(('environment', 'contribut', 'posit', 'teamori', 'work', 'environ'), 11) 1.39%
+(('contribut', 'posit', 'teamori', 'work', 'environ', 'demonstr'), 11) 1.39%
+(('posit', 'teamori', 'work', 'environ', 'demonstr', 'eager'), 11) 1.39%
+(('teamori', 'work', 'environ', 'demonstr', 'eager', 'learn'), 11) 1.39%
+(('work', 'environ', 'demonstr', 'eager', 'learn', 'determin'), 11) 1.39%
 (('environ', 'demonstr', 'eager', 'learn', 'determin', 'succeed'), 11) 1.39%
 (('opportun', 'join', 'forwardthink', 'organ', 'surround', 'collabor'), 11) 1.39%
 (('join', 'forwardthink', 'organ', 'surround', 'collabor', 'team'), 11) 1.39%
@@ -97,4 +98,3 @@
 (('thinker', 'reward', 'career', 'path', 'divers', 'opportun'), 11) 1.39%
 (('reward', 'career', 'path', 'divers', 'opportun', 'profession'), 11) 1.39%
 (('career', 'path', 'divers', 'opportun', 'profession', 'develop'), 11) 1.39%
-(('intern', 'train', 'support', 'career', 'growth', 'enhanc'), 11) 1.39%
